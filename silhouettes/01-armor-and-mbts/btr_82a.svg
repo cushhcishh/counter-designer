@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>BTR-82A 8×8</title>
+  <desc>Eastern / OPFOR — apc, wheeled, btr, btr82, 8x8, amphibious, mechanized</desc>
+  <path d="M 40 166 L 46 128 L 224 126 L 236 98 L 268 98 L 272 124 L 366 94 L 368 90 L 374 90 L 374 96 L 276 126 L 446 138 L 476 154 L 468 166 L 44 166 Z M 66 172 A 18 18 0 1 0 102 172 A 18 18 0 1 0 66 172 Z M 158 172 A 18 18 0 1 0 194 172 A 18 18 0 1 0 158 172 Z M 250 172 A 18 18 0 1 0 286 172 A 18 18 0 1 0 250 172 Z M 342 172 A 18 18 0 1 0 378 172 A 18 18 0 1 0 342 172 Z" fill="#1e293b"/>
+</svg>

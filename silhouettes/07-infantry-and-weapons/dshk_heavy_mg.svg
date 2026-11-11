@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>DShK / KORD 12.7mm Heavy MG on Tripod</title>
+  <desc>Eastern / OPFOR — weapon, machine_gun, hmg, dshk, kord, 127mm, tripod, heavy_weapons</desc>
+  <path d="M 134 114 L 142 114 L 142 134 L 134 134 Z M 142 118 L 248 118 L 248 130 L 142 130 Z M 248 122 L 476 122 L 480 114 L 498 114 L 498 134 L 480 134 L 476 126 L 248 126 Z M 230 130 L 310 204 L 298 204 L 224 132 Z M 224 132 L 152 204 L 140 204 L 218 130 Z" fill="#1e293b"/>
+</svg>

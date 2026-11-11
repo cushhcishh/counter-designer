@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>M240B / FN MAG General Purpose Machine Gun</title>
+  <desc>NATO / US — weapon, machine_gun, gpmg, m240, fn_mag, 762mm, belt_fed, suppressive</desc>
+  <path d="M 42 128 L 50 112 L 132 112 L 142 126 L 174 126 L 180 98 L 216 98 L 216 106 L 190 106 L 190 126 L 448 126 L 454 104 L 464 104 L 466 126 L 496 126 L 496 132 L 466 132 L 426 132 L 438 174 L 428 174 L 418 132 L 244 132 L 236 148 L 214 148 L 222 132 L 176 132 L 162 170 L 144 166 L 154 132 L 132 132 L 132 144 L 50 144 L 42 128 Z" fill="#1e293b"/>
+</svg>

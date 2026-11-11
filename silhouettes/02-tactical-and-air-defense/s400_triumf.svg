@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>S-400 Triumf 5P85TE2 TEL</title>
+  <desc>Eastern / OPFOR — air_defense, sam, s400, triumf, tel, missile, russia, long_range</desc>
+  <path d="M 44 172 L 50 144 L 140 144 L 140 132 L 340 132 L 348 106 L 442 106 L 464 138 L 466 172 L 44 172 Z M 162 144 L 162 28 L 268 28 L 268 144 Z M 164 28 A 12 12 0 0 1 188 28 Z M 190 28 A 12 12 0 0 1 214 28 Z M 216 28 A 12 12 0 0 1 240 28 Z M 242 28 A 12 12 0 0 1 266 28 Z M 67 176 A 19 19 0 1 0 105 176 A 19 19 0 1 0 67 176 Z M 159 176 A 19 19 0 1 0 197 176 A 19 19 0 1 0 159 176 Z M 251 176 A 19 19 0 1 0 289 176 A 19 19 0 1 0 251 176 Z M 343 176 A 19 19 0 1 0 381 176 A 19 19 0 1 0 343 176 Z" fill="#1e293b"/>
+</svg>

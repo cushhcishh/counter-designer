@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>Anti-Tank Landmine (TM-62)</title>
+  <desc>Universal / Ordnance — mine, landmine, anti_tank, tm62, explosive, obstacle, minefield</desc>
+  <path d="M 188 136 A 68 68 0 1 0 324 136 A 68 68 0 1 0 188 136 Z M 230 136 A 26 26 0 1 0 282 136 A 26 26 0 1 0 230 136 Z M 246 136 A 10 10 0 1 0 266 136 A 10 10 0 1 0 246 136 Z M 324 128 L 358 128 L 358 144 L 324 144 Z" fill="#1e293b"/>
+</svg>

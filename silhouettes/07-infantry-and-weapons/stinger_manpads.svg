@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>FIM-92 Stinger MANPADS SAM</title>
+  <desc>NATO / US — weapon, manpads, sam, stinger, fim92, anti_air, surface_to_air</desc>
+  <path d="M 68 112 L 86 112 L 86 144 L 68 144 Z M 86 118 L 404 118 L 404 138 L 86 138 Z M 404 112 L 422 112 L 422 144 L 404 144 Z M 294 138 L 302 182 L 288 180 L 282 138 Z M 322 150 A 10 10 0 1 0 342 150 A 10 10 0 1 0 322 150 Z M 364 104 L 378 104 L 378 118 L 364 118 Z" fill="#1e293b"/>
+</svg>

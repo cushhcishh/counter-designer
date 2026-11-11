@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>MGM-140 ATACMS</title>
+  <desc>NATO / US — missile, ballistic, atacms, himars, long_range, precision</desc>
+  <path d="M 50 128 L 74 94 L 98 94 L 88 118 L 388 118 L 456 122 C 486 124 498 128 498 128 C 498 128 486 132 456 134 L 388 138 L 88 138 L 98 162 L 74 162 L 50 128 Z M 148 118 L 148 138 L 152 138 L 152 118 Z" fill="#1e293b"/>
+</svg>

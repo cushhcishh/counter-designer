@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>Shahed-136 / Geran-2</title>
+  <desc>Eastern / OPFOR — drone, loitering, kamikaze, shahed, geran2, delta, swarm</desc>
+  <path d="M 36 108 L 42 108 L 42 148 L 36 148 Z M 44 128 L 182 46 L 192 46 L 192 68 L 178 78 L 86 128 L 484 128 L 496 128 L 496 132 L 484 132 L 86 132 L 178 182 L 192 192 L 192 214 L 182 214 L 44 128 Z M 182 46 L 192 46 L 192 68 L 182 68 Z M 182 192 L 192 192 L 192 214 L 182 214 Z" fill="#1e293b"/>
+</svg>

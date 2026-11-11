@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>BMP-2 IFV</title>
+  <desc>Eastern / OPFOR — ifv, bmp, bmp2, amphibious, mechanized, opfor, 30mm</desc>
+  <path d="M 40 180 L 50 146 L 168 142 L 216 136 L 236 112 L 250 108 L 308 108 L 322 124 L 330 136 L 360 136 L 488 120 L 490 114 L 496 114 L 496 122 L 366 140 L 458 144 L 476 160 L 474 182 L 458 192 L 48 192 Z M 52 176 A 14 14 0 1 0 80 176 A 14 14 0 1 0 52 176 Z M 116 176 A 14 14 0 1 0 144 176 A 14 14 0 1 0 116 176 Z M 180 176 A 14 14 0 1 0 208 176 A 14 14 0 1 0 180 176 Z M 244 176 A 14 14 0 1 0 272 176 A 14 14 0 1 0 244 176 Z M 308 176 A 14 14 0 1 0 336 176 A 14 14 0 1 0 308 176 Z M 372 176 A 14 14 0 1 0 400 176 A 14 14 0 1 0 372 176 Z" fill="#1e293b"/>
+</svg>

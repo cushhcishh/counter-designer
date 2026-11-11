@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>HMMWV / Humvee</title>
+  <desc>NATO / US — light_tactical, humvee, hmmwv, 4x4, recon, patrol, usmc</desc>
+  <path d="M 62 168 L 68 138 L 160 114 L 306 114 L 236 86 L 264 86 L 264 114 L 356 128 L 436 128 L 448 146 L 446 168 L 64 168 Z M 264 92 L 316 92 L 316 96 L 264 96 Z M 114 172 A 22 22 0 1 0 158 172 A 22 22 0 1 0 114 172 Z M 350 172 A 22 22 0 1 0 394 172 A 22 22 0 1 0 350 172 Z" fill="#1e293b"/>
+</svg>

@@ -1,0 +1,2376 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-11-10T22:18:32.072Z",
+  "totalAssets": 121,
+  "categories": [
+    {
+      "id": "all",
+      "name": "All Silhouettes",
+      "icon": "<svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><line x1=\"12\" y1=\"3\" x2=\"12\" y2=\"21\"/><line x1=\"3\" y1=\"12\" x2=\"21\" y2=\"12\"/></svg>"
+    },
+    {
+      "id": "armor",
+      "name": "Armor & MBTs",
+      "icon": "<svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><rect x=\"2\" y=\"9\" width=\"20\" height=\"8\" rx=\"2\"/><circle cx=\"6\" cy=\"13\" r=\"2\"/><circle cx=\"12\" cy=\"13\" r=\"2\"/><circle cx=\"18\" cy=\"13\" r=\"2\"/><path d=\"M7 9l3-4h6l2 4\"/></svg>"
+    },
+    {
+      "id": "tactical",
+      "name": "Tactical & Air Defense",
+      "icon": "<svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><path d=\"M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z\"/><line x1=\"4\" y1=\"22\" x2=\"4\" y2=\"15\"/></svg>"
+    },
+    {
+      "id": "aviation",
+      "name": "Aviation & Bombers",
+      "icon": "<svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><path d=\"M12 2l3 7h7l-5.5 4.5 2 7.5L12 17.5 5.5 21l2-7.5L2 9h7z\"/></svg>"
+    },
+    {
+      "id": "helicopters",
+      "name": "Helicopters",
+      "icon": "<svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><line x1=\"3\" y1=\"6\" x2=\"21\" y2=\"6\"/><rect x=\"6\" y=\"9\" width=\"12\" height=\"7\" rx=\"3\"/><line x1=\"12\" y1=\"6\" x2=\"12\" y2=\"9\"/><line x1=\"18\" y1=\"12\" x2=\"22\" y2=\"12\"/></svg>"
+    },
+    {
+      "id": "drones_missiles",
+      "name": "Drones & Missiles",
+      "icon": "<svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"12\" r=\"3\"/><path d=\"M12 2v4m0 12v4M2 12h4m12 0h4\"/></svg>"
+    },
+    {
+      "id": "naval",
+      "name": "Naval Warships & Subs",
+      "icon": "<svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><path d=\"M3 17l2 4h14l2-4L12 12 3 17z\"/><line x1=\"12\" y1=\"4\" x2=\"12\" y2=\"12\"/><line x1=\"8\" y1=\"8\" x2=\"16\" y2=\"8\"/></svg>"
+    },
+    {
+      "id": "infantry_weapons",
+      "name": "Infantry & Weapons",
+      "icon": "<svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"7\" r=\"4\"/><path d=\"M5.5 21a8.38 8.38 0 0 1 13 0\"/></svg>"
+    },
+    {
+      "id": "fortifications",
+      "name": "Fortifications & Ops",
+      "icon": "<svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><path d=\"M3 21h18M4 18h16M6 14h12M8 10h8M10 6h4\"/></svg>"
+    }
+  ],
+  "assets": [
+    {
+      "id": "m1a2_abrams",
+      "name": "M1A2 Abrams",
+      "category": "armor",
+      "categoryFolder": "01-armor-and-mbts",
+      "bloc": "NATO / US",
+      "tags": [
+        "tank",
+        "mbt",
+        "armor",
+        "abrams",
+        "m1a2",
+        "usa",
+        "120mm"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "01-armor-and-mbts/m1a2_abrams.svg",
+      "pngFile": "01-armor-and-mbts/m1a2_abrams.png"
+    },
+    {
+      "id": "leopard_2a7",
+      "name": "Leopard 2A7",
+      "category": "armor",
+      "categoryFolder": "01-armor-and-mbts",
+      "bloc": "NATO / Germany",
+      "tags": [
+        "tank",
+        "mbt",
+        "armor",
+        "leopard",
+        "2a7",
+        "germany",
+        "bundeswehr"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "01-armor-and-mbts/leopard_2a7.svg",
+      "pngFile": "01-armor-and-mbts/leopard_2a7.png"
+    },
+    {
+      "id": "challenger_2",
+      "name": "Challenger 2",
+      "category": "armor",
+      "categoryFolder": "01-armor-and-mbts",
+      "bloc": "NATO / UK",
+      "tags": [
+        "tank",
+        "mbt",
+        "armor",
+        "challenger",
+        "uk",
+        "british",
+        "120mm"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "01-armor-and-mbts/challenger_2.svg",
+      "pngFile": "01-armor-and-mbts/challenger_2.png"
+    },
+    {
+      "id": "t90m_proryv",
+      "name": "T-90M Proryv",
+      "category": "armor",
+      "categoryFolder": "01-armor-and-mbts",
+      "bloc": "Eastern / OPFOR",
+      "tags": [
+        "tank",
+        "mbt",
+        "armor",
+        "t90",
+        "t90m",
+        "russia",
+        "opfor",
+        "125mm"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "01-armor-and-mbts/t90m_proryv.svg",
+      "pngFile": "01-armor-and-mbts/t90m_proryv.png"
+    },
+    {
+      "id": "t72b3",
+      "name": "T-72B3",
+      "category": "armor",
+      "categoryFolder": "01-armor-and-mbts",
+      "bloc": "Eastern / OPFOR",
+      "tags": [
+        "tank",
+        "mbt",
+        "armor",
+        "t72",
+        "t72b3",
+        "russia",
+        "opfor",
+        "soviet"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "01-armor-and-mbts/t72b3.svg",
+      "pngFile": "01-armor-and-mbts/t72b3.png"
+    },
+    {
+      "id": "m2a3_bradley",
+      "name": "M2A3 Bradley IFV",
+      "category": "armor",
+      "categoryFolder": "01-armor-and-mbts",
+      "bloc": "NATO / US",
+      "tags": [
+        "ifv",
+        "afv",
+        "bradley",
+        "m2a3",
+        "bushmaster",
+        "tow",
+        "armor",
+        "mechanized"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "01-armor-and-mbts/m2a3_bradley.svg",
+      "pngFile": "01-armor-and-mbts/m2a3_bradley.png"
+    },
+    {
+      "id": "bmp_2",
+      "name": "BMP-2 IFV",
+      "category": "armor",
+      "categoryFolder": "01-armor-and-mbts",
+      "bloc": "Eastern / OPFOR",
+      "tags": [
+        "ifv",
+        "bmp",
+        "bmp2",
+        "amphibious",
+        "mechanized",
+        "opfor",
+        "30mm"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "01-armor-and-mbts/bmp_2.svg",
+      "pngFile": "01-armor-and-mbts/bmp_2.png"
+    },
+    {
+      "id": "btr_82a",
+      "name": "BTR-82A 8×8",
+      "category": "armor",
+      "categoryFolder": "01-armor-and-mbts",
+      "bloc": "Eastern / OPFOR",
+      "tags": [
+        "apc",
+        "wheeled",
+        "btr",
+        "btr82",
+        "8x8",
+        "amphibious",
+        "mechanized"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "01-armor-and-mbts/btr_82a.svg",
+      "pngFile": "01-armor-and-mbts/btr_82a.png"
+    },
+    {
+      "id": "stryker_icv",
+      "name": "Stryker ICV 8×8",
+      "category": "armor",
+      "categoryFolder": "01-armor-and-mbts",
+      "bloc": "NATO / US",
+      "tags": [
+        "apc",
+        "wheeled",
+        "stryker",
+        "8x8",
+        "icv",
+        "sbct",
+        "us_army"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "01-armor-and-mbts/stryker_icv.svg",
+      "pngFile": "01-armor-and-mbts/stryker_icv.png"
+    },
+    {
+      "id": "m109_paladin",
+      "name": "M109A6 Paladin",
+      "category": "armor",
+      "categoryFolder": "01-armor-and-mbts",
+      "bloc": "NATO / US",
+      "tags": [
+        "artillery",
+        "howitzer",
+        "sph",
+        "155mm",
+        "paladin",
+        "m109",
+        "fire_support"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "01-armor-and-mbts/m109_paladin.svg",
+      "pngFile": "01-armor-and-mbts/m109_paladin.png"
+    },
+    {
+      "id": "pzh_2000",
+      "name": "Panzerhaubitze 2000",
+      "category": "armor",
+      "categoryFolder": "01-armor-and-mbts",
+      "bloc": "NATO / Germany",
+      "tags": [
+        "artillery",
+        "howitzer",
+        "sph",
+        "155mm",
+        "pzh2000",
+        "germany",
+        "bundeswehr"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "01-armor-and-mbts/pzh_2000.svg",
+      "pngFile": "01-armor-and-mbts/pzh_2000.png"
+    },
+    {
+      "id": "m142_himars",
+      "name": "M142 HIMARS",
+      "category": "armor",
+      "categoryFolder": "01-armor-and-mbts",
+      "bloc": "NATO / US",
+      "tags": [
+        "artillery",
+        "rocket",
+        "mlrs",
+        "himars",
+        "gmlrs",
+        "atacms",
+        "6x6"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "01-armor-and-mbts/m142_himars.svg",
+      "pngFile": "01-armor-and-mbts/m142_himars.png"
+    },
+    {
+      "id": "bm21_grad",
+      "name": "BM-21 Grad",
+      "category": "armor",
+      "categoryFolder": "01-armor-and-mbts",
+      "bloc": "Eastern / OPFOR",
+      "tags": [
+        "artillery",
+        "rocket",
+        "mlrs",
+        "grad",
+        "bm21",
+        "122mm",
+        "truck",
+        "6x6"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "01-armor-and-mbts/bm21_grad.svg",
+      "pngFile": "01-armor-and-mbts/bm21_grad.png"
+    },
+    {
+      "id": "gepard_spaag",
+      "name": "Flakpanzer Gepard",
+      "category": "tactical",
+      "categoryFolder": "02-tactical-and-air-defense",
+      "bloc": "NATO / Germany",
+      "tags": [
+        "air_defense",
+        "spaag",
+        "gepard",
+        "35mm",
+        "radar",
+        "shorad",
+        "germany"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "02-tactical-and-air-defense/gepard_spaag.svg",
+      "pngFile": "02-tactical-and-air-defense/gepard_spaag.png"
+    },
+    {
+      "id": "pantsir_s1",
+      "name": "Pantsir-S1",
+      "category": "tactical",
+      "categoryFolder": "02-tactical-and-air-defense",
+      "bloc": "Eastern / OPFOR",
+      "tags": [
+        "air_defense",
+        "sam",
+        "spaag",
+        "pantsir",
+        "missile",
+        "radar",
+        "8x8",
+        "russia"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "02-tactical-and-air-defense/pantsir_s1.svg",
+      "pngFile": "02-tactical-and-air-defense/pantsir_s1.png"
+    },
+    {
+      "id": "hmmwv_humvee",
+      "name": "HMMWV / Humvee",
+      "category": "tactical",
+      "categoryFolder": "02-tactical-and-air-defense",
+      "bloc": "NATO / US",
+      "tags": [
+        "light_tactical",
+        "humvee",
+        "hmmwv",
+        "4x4",
+        "recon",
+        "patrol",
+        "usmc"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "02-tactical-and-air-defense/hmmwv_humvee.svg",
+      "pngFile": "02-tactical-and-air-defense/hmmwv_humvee.png"
+    },
+    {
+      "id": "oshkosh_jltv",
+      "name": "Oshkosh JLTV",
+      "category": "tactical",
+      "categoryFolder": "02-tactical-and-air-defense",
+      "bloc": "NATO / US",
+      "tags": [
+        "light_tactical",
+        "jltv",
+        "oshkosh",
+        "mrap",
+        "4x4",
+        "armored",
+        "us_army"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "02-tactical-and-air-defense/oshkosh_jltv.svg",
+      "pngFile": "02-tactical-and-air-defense/oshkosh_jltv.png"
+    },
+    {
+      "id": "technical_pickup",
+      "name": "Technical / Gun Truck",
+      "category": "tactical",
+      "categoryFolder": "02-tactical-and-air-defense",
+      "bloc": "Irregular / Insurgent",
+      "tags": [
+        "technical",
+        "pickup",
+        "gun_truck",
+        "dshk",
+        "guerrilla",
+        "toyota",
+        "irregular"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "02-tactical-and-air-defense/technical_pickup.svg",
+      "pngFile": "02-tactical-and-air-defense/technical_pickup.png"
+    },
+    {
+      "id": "hemtt_truck",
+      "name": "HEMTT 8×8 Truck",
+      "category": "tactical",
+      "categoryFolder": "02-tactical-and-air-defense",
+      "bloc": "NATO / US",
+      "tags": [
+        "logistics",
+        "truck",
+        "hemtt",
+        "8x8",
+        "transport",
+        "supply",
+        "heavy"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "02-tactical-and-air-defense/hemtt_truck.svg",
+      "pngFile": "02-tactical-and-air-defense/hemtt_truck.png"
+    },
+    {
+      "id": "f15e_strike_eagle",
+      "name": "F-15E Strike Eagle",
+      "category": "aviation",
+      "categoryFolder": "03-aviation-and-bombers",
+      "bloc": "NATO / US",
+      "tags": [
+        "fighter",
+        "jet",
+        "f15",
+        "f15e",
+        "strike_eagle",
+        "usaf",
+        "twin_engine"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "03-aviation-and-bombers/f15e_strike_eagle.svg",
+      "pngFile": "03-aviation-and-bombers/f15e_strike_eagle.png"
+    },
+    {
+      "id": "f16c_fighting_falcon",
+      "name": "F-16C Fighting Falcon",
+      "category": "aviation",
+      "categoryFolder": "03-aviation-and-bombers",
+      "bloc": "NATO / US",
+      "tags": [
+        "fighter",
+        "jet",
+        "f16",
+        "viper",
+        "multirole",
+        "usaf",
+        "nato"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "03-aviation-and-bombers/f16c_fighting_falcon.svg",
+      "pngFile": "03-aviation-and-bombers/f16c_fighting_falcon.png"
+    },
+    {
+      "id": "f22a_raptor",
+      "name": "F-22A Raptor",
+      "category": "aviation",
+      "categoryFolder": "03-aviation-and-bombers",
+      "bloc": "NATO / US",
+      "tags": [
+        "fighter",
+        "jet",
+        "f22",
+        "raptor",
+        "stealth",
+        "5th_gen",
+        "usaf",
+        "air_superiority"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "03-aviation-and-bombers/f22a_raptor.svg",
+      "pngFile": "03-aviation-and-bombers/f22a_raptor.png"
+    },
+    {
+      "id": "f35a_lightning_ii",
+      "name": "F-35A Lightning II",
+      "category": "aviation",
+      "categoryFolder": "03-aviation-and-bombers",
+      "bloc": "NATO / Universal",
+      "tags": [
+        "fighter",
+        "jet",
+        "f35",
+        "lightning",
+        "stealth",
+        "5th_gen",
+        "jsf",
+        "nato"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "03-aviation-and-bombers/f35a_lightning_ii.svg",
+      "pngFile": "03-aviation-and-bombers/f35a_lightning_ii.png"
+    },
+    {
+      "id": "a10c_warthog",
+      "name": "A-10C Thunderbolt II (Warthog)",
+      "category": "aviation",
+      "categoryFolder": "03-aviation-and-bombers",
+      "bloc": "NATO / US",
+      "tags": [
+        "cas",
+        "ground_attack",
+        "a10",
+        "warthog",
+        "gau8",
+        "tank_buster",
+        "usaf"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "03-aviation-and-bombers/a10c_warthog.svg",
+      "pngFile": "03-aviation-and-bombers/a10c_warthog.png"
+    },
+    {
+      "id": "su27_flanker",
+      "name": "Su-27 / Su-35 Flanker",
+      "category": "aviation",
+      "categoryFolder": "03-aviation-and-bombers",
+      "bloc": "Eastern / OPFOR",
+      "tags": [
+        "fighter",
+        "jet",
+        "su27",
+        "su35",
+        "flanker",
+        "russia",
+        "opfor",
+        "air_superiority"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "03-aviation-and-bombers/su27_flanker.svg",
+      "pngFile": "03-aviation-and-bombers/su27_flanker.png"
+    },
+    {
+      "id": "eurofighter_typhoon",
+      "name": "Eurofighter Typhoon",
+      "category": "aviation",
+      "categoryFolder": "03-aviation-and-bombers",
+      "bloc": "NATO / UK & Europe",
+      "tags": [
+        "fighter",
+        "jet",
+        "typhoon",
+        "eurofighter",
+        "raf",
+        "canard",
+        "delta",
+        "nato"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "03-aviation-and-bombers/eurofighter_typhoon.svg",
+      "pngFile": "03-aviation-and-bombers/eurofighter_typhoon.png"
+    },
+    {
+      "id": "b52_stratofortress",
+      "name": "B-52H Stratofortress",
+      "category": "aviation",
+      "categoryFolder": "03-aviation-and-bombers",
+      "bloc": "NATO / US",
+      "tags": [
+        "bomber",
+        "strategic",
+        "b52",
+        "stratofortress",
+        "heavy_bomber",
+        "usaf"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "03-aviation-and-bombers/b52_stratofortress.svg",
+      "pngFile": "03-aviation-and-bombers/b52_stratofortress.png"
+    },
+    {
+      "id": "b2_spirit",
+      "name": "B-2A Spirit (Stealth Bomber)",
+      "category": "aviation",
+      "categoryFolder": "03-aviation-and-bombers",
+      "bloc": "NATO / US",
+      "tags": [
+        "bomber",
+        "stealth",
+        "b2",
+        "spirit",
+        "flying_wing",
+        "strategic",
+        "usaf"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "03-aviation-and-bombers/b2_spirit.svg",
+      "pngFile": "03-aviation-and-bombers/b2_spirit.png"
+    },
+    {
+      "id": "c130_hercules",
+      "name": "C-130 Hercules",
+      "category": "aviation",
+      "categoryFolder": "03-aviation-and-bombers",
+      "bloc": "NATO / Universal",
+      "tags": [
+        "transport",
+        "cargo",
+        "c130",
+        "hercules",
+        "turboprop",
+        "tactical_airlift"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "03-aviation-and-bombers/c130_hercules.svg",
+      "pngFile": "03-aviation-and-bombers/c130_hercules.png"
+    },
+    {
+      "id": "ah64_apache",
+      "name": "AH-64D/E Apache",
+      "category": "helicopters",
+      "categoryFolder": "04-helicopters",
+      "bloc": "NATO / US & UK",
+      "tags": [
+        "helicopter",
+        "attack",
+        "apache",
+        "ah64",
+        "hellfire",
+        "gunship",
+        "us_army",
+        "army_air_corps"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "04-helicopters/ah64_apache.svg",
+      "pngFile": "04-helicopters/ah64_apache.png"
+    },
+    {
+      "id": "mi24_hind",
+      "name": "Mi-24 Hind",
+      "category": "helicopters",
+      "categoryFolder": "04-helicopters",
+      "bloc": "Eastern / OPFOR",
+      "tags": [
+        "helicopter",
+        "attack",
+        "hind",
+        "mi24",
+        "gunship",
+        "russia",
+        "opfor",
+        "flying_tank"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "04-helicopters/mi24_hind.svg",
+      "pngFile": "04-helicopters/mi24_hind.png"
+    },
+    {
+      "id": "uh60_black_hawk",
+      "name": "UH-60M Black Hawk",
+      "category": "helicopters",
+      "categoryFolder": "04-helicopters",
+      "bloc": "NATO / US",
+      "tags": [
+        "helicopter",
+        "utility",
+        "black_hawk",
+        "uh60",
+        "air_assault",
+        "transport",
+        "us_army"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "04-helicopters/uh60_black_hawk.svg",
+      "pngFile": "04-helicopters/uh60_black_hawk.png"
+    },
+    {
+      "id": "ch47_chinook",
+      "name": "CH-47F Chinook",
+      "category": "helicopters",
+      "categoryFolder": "04-helicopters",
+      "bloc": "NATO / US & UK",
+      "tags": [
+        "helicopter",
+        "cargo",
+        "heavy_lift",
+        "chinook",
+        "ch47",
+        "tandem_rotor",
+        "raf",
+        "us_army"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "04-helicopters/ch47_chinook.svg",
+      "pngFile": "04-helicopters/ch47_chinook.png"
+    },
+    {
+      "id": "mq9_reaper",
+      "name": "MQ-9 Reaper UCAV",
+      "category": "drones_missiles",
+      "categoryFolder": "05-drones-and-missiles",
+      "bloc": "NATO / US & UK",
+      "tags": [
+        "drone",
+        "ucav",
+        "reaper",
+        "mq9",
+        "unmanned",
+        "hellfire",
+        "surveillance"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "05-drones-and-missiles/mq9_reaper.svg",
+      "pngFile": "05-drones-and-missiles/mq9_reaper.png"
+    },
+    {
+      "id": "bayraktar_tb2",
+      "name": "Bayraktar TB2",
+      "category": "drones_missiles",
+      "categoryFolder": "05-drones-and-missiles",
+      "bloc": "NATO / Turkey & Ukraine",
+      "tags": [
+        "drone",
+        "ucav",
+        "bayraktar",
+        "tb2",
+        "turkey",
+        "ukraine",
+        "strike_drone"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "05-drones-and-missiles/bayraktar_tb2.svg",
+      "pngFile": "05-drones-and-missiles/bayraktar_tb2.png"
+    },
+    {
+      "id": "shahed_136",
+      "name": "Shahed-136 / Geran-2",
+      "category": "drones_missiles",
+      "categoryFolder": "05-drones-and-missiles",
+      "bloc": "Eastern / OPFOR",
+      "tags": [
+        "drone",
+        "loitering",
+        "kamikaze",
+        "shahed",
+        "geran2",
+        "delta",
+        "swarm"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "05-drones-and-missiles/shahed_136.svg",
+      "pngFile": "05-drones-and-missiles/shahed_136.png"
+    },
+    {
+      "id": "fpv_strike_quadcopter",
+      "name": "FPV Strike Quadcopter",
+      "category": "drones_missiles",
+      "categoryFolder": "05-drones-and-missiles",
+      "bloc": "Universal / Tactical",
+      "tags": [
+        "drone",
+        "fpv",
+        "quadcopter",
+        "kamikaze",
+        "tactical",
+        "rpg_drone"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "05-drones-and-missiles/fpv_strike_quadcopter.svg",
+      "pngFile": "05-drones-and-missiles/fpv_strike_quadcopter.png"
+    },
+    {
+      "id": "tomahawk_missile",
+      "name": "BGM-109 Tomahawk",
+      "category": "drones_missiles",
+      "categoryFolder": "05-drones-and-missiles",
+      "bloc": "NATO / US & UK",
+      "tags": [
+        "missile",
+        "cruise_missile",
+        "tomahawk",
+        "precision_strike",
+        "us_navy",
+        "royal_navy"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "05-drones-and-missiles/tomahawk_missile.svg",
+      "pngFile": "05-drones-and-missiles/tomahawk_missile.png"
+    },
+    {
+      "id": "atacms_missile",
+      "name": "MGM-140 ATACMS",
+      "category": "drones_missiles",
+      "categoryFolder": "05-drones-and-missiles",
+      "bloc": "NATO / US",
+      "tags": [
+        "missile",
+        "ballistic",
+        "atacms",
+        "himars",
+        "long_range",
+        "precision"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "05-drones-and-missiles/atacms_missile.svg",
+      "pngFile": "05-drones-and-missiles/atacms_missile.png"
+    },
+    {
+      "id": "supercarrier_cvn",
+      "name": "Nimitz / Ford Supercarrier",
+      "category": "naval",
+      "categoryFolder": "06-naval-warships-and-subs",
+      "bloc": "NATO / US",
+      "tags": [
+        "warship",
+        "carrier",
+        "supercarrier",
+        "cvn",
+        "nimitz",
+        "ford",
+        "us_navy",
+        "naval"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "06-naval-warships-and-subs/supercarrier_cvn.svg",
+      "pngFile": "06-naval-warships-and-subs/supercarrier_cvn.png"
+    },
+    {
+      "id": "arleigh_burke_ddg",
+      "name": "Arleigh Burke Destroyer",
+      "category": "naval",
+      "categoryFolder": "06-naval-warships-and-subs",
+      "bloc": "NATO / US & Allies",
+      "tags": [
+        "warship",
+        "destroyer",
+        "ddg",
+        "arleigh_burke",
+        "aegis",
+        "us_navy",
+        "naval"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "06-naval-warships-and-subs/arleigh_burke_ddg.svg",
+      "pngFile": "06-naval-warships-and-subs/arleigh_burke_ddg.png"
+    },
+    {
+      "id": "ssn_attack_sub",
+      "name": "Virginia / Astute Class SSN",
+      "category": "naval",
+      "categoryFolder": "06-naval-warships-and-subs",
+      "bloc": "NATO / US & UK",
+      "tags": [
+        "submarine",
+        "ssn",
+        "virginia",
+        "astute",
+        "attack_sub",
+        "nuclear",
+        "underwater"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "06-naval-warships-and-subs/ssn_attack_sub.svg",
+      "pngFile": "06-naval-warships-and-subs/ssn_attack_sub.png"
+    },
+    {
+      "id": "combat_rifleman_standing",
+      "name": "Combat Rifleman (Standing)",
+      "category": "infantry_weapons",
+      "categoryFolder": "07-infantry-and-weapons",
+      "bloc": "Universal / Infantry",
+      "tags": [
+        "soldier",
+        "infantry",
+        "operator",
+        "rifleman",
+        "tactical",
+        "boots_on_the_ground"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "07-infantry-and-weapons/combat_rifleman_standing.svg",
+      "pngFile": "07-infantry-and-weapons/combat_rifleman_standing.png"
+    },
+    {
+      "id": "soldier_kneeling_firing",
+      "name": "Soldier Kneeling (Firing)",
+      "category": "infantry_weapons",
+      "categoryFolder": "07-infantry-and-weapons",
+      "bloc": "Universal / Infantry",
+      "tags": [
+        "soldier",
+        "infantry",
+        "kneeling",
+        "firing",
+        "marksman",
+        "suppression"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "07-infantry-and-weapons/soldier_kneeling_firing.svg",
+      "pngFile": "07-infantry-and-weapons/soldier_kneeling_firing.png"
+    },
+    {
+      "id": "m4a1_carbine",
+      "name": "M4A1 SOPMOD Carbine",
+      "category": "infantry_weapons",
+      "categoryFolder": "07-infantry-and-weapons",
+      "bloc": "NATO / US & Western",
+      "tags": [
+        "weapon",
+        "rifle",
+        "m4",
+        "m4a1",
+        "carbine",
+        "5.56mm",
+        "ar15",
+        "special_forces"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "07-infantry-and-weapons/m4a1_carbine.svg",
+      "pngFile": "07-infantry-and-weapons/m4a1_carbine.png"
+    },
+    {
+      "id": "ak74m_rifle",
+      "name": "AK-74M / AK-47 Rifle",
+      "category": "infantry_weapons",
+      "categoryFolder": "07-infantry-and-weapons",
+      "bloc": "Eastern / OPFOR",
+      "tags": [
+        "weapon",
+        "rifle",
+        "ak47",
+        "ak74",
+        "kalashnikov",
+        "7.62mm",
+        "5.45mm",
+        "assault_rifle"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "07-infantry-and-weapons/ak74m_rifle.svg",
+      "pngFile": "07-infantry-and-weapons/ak74m_rifle.png"
+    },
+    {
+      "id": "barrett_m82_sniper",
+      "name": "Barrett M82A1 .50 BMG",
+      "category": "infantry_weapons",
+      "categoryFolder": "07-infantry-and-weapons",
+      "bloc": "NATO / US & Western",
+      "tags": [
+        "weapon",
+        "sniper",
+        "barrett",
+        "m82",
+        "50cal",
+        "anti_materiel",
+        "long_range"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "07-infantry-and-weapons/barrett_m82_sniper.svg",
+      "pngFile": "07-infantry-and-weapons/barrett_m82_sniper.png"
+    },
+    {
+      "id": "rpg7_launcher",
+      "name": "RPG-7 Rocket Launcher",
+      "category": "infantry_weapons",
+      "categoryFolder": "07-infantry-and-weapons",
+      "bloc": "Eastern / Universal",
+      "tags": [
+        "weapon",
+        "rpg",
+        "rpg7",
+        "anti_tank",
+        "rocket",
+        "grenade",
+        "heat"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "07-infantry-and-weapons/rpg7_launcher.svg",
+      "pngFile": "07-infantry-and-weapons/rpg7_launcher.png"
+    },
+    {
+      "id": "m777_howitzer",
+      "name": "M777 155mm Howitzer",
+      "category": "infantry_weapons",
+      "categoryFolder": "07-infantry-and-weapons",
+      "bloc": "NATO / US & UK",
+      "tags": [
+        "artillery",
+        "howitzer",
+        "towed",
+        "155mm",
+        "m777",
+        "titanium",
+        "fire_support"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "07-infantry-and-weapons/m777_howitzer.svg",
+      "pngFile": "07-infantry-and-weapons/m777_howitzer.png"
+    },
+    {
+      "id": "concrete_bunker",
+      "name": "Reinforced Concrete Bunker",
+      "category": "fortifications",
+      "categoryFolder": "08-fortifications-and-ops",
+      "bloc": "Universal / Defense",
+      "tags": [
+        "bunker",
+        "fortification",
+        "pillbox",
+        "defense",
+        "strongpoint",
+        "concrete"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "08-fortifications-and-ops/concrete_bunker.svg",
+      "pngFile": "08-fortifications-and-ops/concrete_bunker.png"
+    },
+    {
+      "id": "dragons_teeth_line",
+      "name": "Dragon's Teeth Anti-Tank Line",
+      "category": "fortifications",
+      "categoryFolder": "08-fortifications-and-ops",
+      "bloc": "Universal / Defense",
+      "tags": [
+        "obstacle",
+        "anti_tank",
+        "dragons_teeth",
+        "barrier",
+        "defense",
+        "concrete"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "08-fortifications-and-ops/dragons_teeth_line.svg",
+      "pngFile": "08-fortifications-and-ops/dragons_teeth_line.png"
+    },
+    {
+      "id": "czech_hedgehog",
+      "name": "Czech Hedgehog Barrier",
+      "category": "fortifications",
+      "categoryFolder": "08-fortifications-and-ops",
+      "bloc": "Universal / Defense",
+      "tags": [
+        "obstacle",
+        "anti_tank",
+        "hedgehog",
+        "czech",
+        "steel",
+        "barrier",
+        "beach_landing"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "08-fortifications-and-ops/czech_hedgehog.svg",
+      "pngFile": "08-fortifications-and-ops/czech_hedgehog.png"
+    },
+    {
+      "id": "anti_tank_mine",
+      "name": "Anti-Tank Landmine (TM-62)",
+      "category": "fortifications",
+      "categoryFolder": "08-fortifications-and-ops",
+      "bloc": "Universal / Ordnance",
+      "tags": [
+        "mine",
+        "landmine",
+        "anti_tank",
+        "tm62",
+        "explosive",
+        "obstacle",
+        "minefield"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "08-fortifications-and-ops/anti_tank_mine.svg",
+      "pngFile": "08-fortifications-and-ops/anti_tank_mine.png"
+    },
+    {
+      "id": "radar_surveillance_dish",
+      "name": "Early Warning Radar Dish",
+      "category": "fortifications",
+      "categoryFolder": "08-fortifications-and-ops",
+      "bloc": "Universal / C4ISR",
+      "tags": [
+        "radar",
+        "c4isr",
+        "air_defense",
+        "surveillance",
+        "early_warning",
+        "electronics"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "08-fortifications-and-ops/radar_surveillance_dish.svg",
+      "pngFile": "08-fortifications-and-ops/radar_surveillance_dish.png"
+    },
+    {
+      "id": "helipad_lz",
+      "name": "Helipad / Tactical LZ",
+      "category": "fortifications",
+      "categoryFolder": "08-fortifications-and-ops",
+      "bloc": "Universal / Aviation",
+      "tags": [
+        "helipad",
+        "lz",
+        "landing_zone",
+        "aviation",
+        "evacuation",
+        "medevac"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "08-fortifications-and-ops/helipad_lz.svg",
+      "pngFile": "08-fortifications-and-ops/helipad_lz.png"
+    },
+    {
+      "id": "t80bvm",
+      "name": "T-80BVM Gas-Turbine MBT",
+      "category": "armor",
+      "categoryFolder": "01-armor-and-mbts",
+      "bloc": "Eastern / OPFOR",
+      "tags": [
+        "tank",
+        "mbt",
+        "armor",
+        "t80",
+        "t80bvm",
+        "turbine",
+        "relikt",
+        "125mm"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "01-armor-and-mbts/t80bvm.svg",
+      "pngFile": "01-armor-and-mbts/t80bvm.png"
+    },
+    {
+      "id": "leclerc_xlr",
+      "name": "Leclerc XLR MBT",
+      "category": "armor",
+      "categoryFolder": "01-armor-and-mbts",
+      "bloc": "NATO / France",
+      "tags": [
+        "tank",
+        "mbt",
+        "armor",
+        "leclerc",
+        "france",
+        "autoloader",
+        "120mm"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "01-armor-and-mbts/leclerc_xlr.svg",
+      "pngFile": "01-armor-and-mbts/leclerc_xlr.png"
+    },
+    {
+      "id": "k2_black_panther",
+      "name": "K2 Black Panther MBT",
+      "category": "armor",
+      "categoryFolder": "01-armor-and-mbts",
+      "bloc": "NATO / ROK",
+      "tags": [
+        "tank",
+        "mbt",
+        "armor",
+        "k2",
+        "black_panther",
+        "korea",
+        "rok",
+        "120mm"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "01-armor-and-mbts/k2_black_panther.svg",
+      "pngFile": "01-armor-and-mbts/k2_black_panther.png"
+    },
+    {
+      "id": "merkava_mk4",
+      "name": "Merkava Mk 4M MBT",
+      "category": "armor",
+      "categoryFolder": "01-armor-and-mbts",
+      "bloc": "Universal / IDF",
+      "tags": [
+        "tank",
+        "mbt",
+        "armor",
+        "merkava",
+        "mk4",
+        "trophy",
+        "israel",
+        "120mm"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "01-armor-and-mbts/merkava_mk4.svg",
+      "pngFile": "01-armor-and-mbts/merkava_mk4.png"
+    },
+    {
+      "id": "type99a_mbt",
+      "name": "Type 99A MBT",
+      "category": "armor",
+      "categoryFolder": "01-armor-and-mbts",
+      "bloc": "Eastern / PLA",
+      "tags": [
+        "tank",
+        "mbt",
+        "armor",
+        "type99",
+        "type99a",
+        "pla",
+        "china",
+        "125mm"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "01-armor-and-mbts/type99a_mbt.svg",
+      "pngFile": "01-armor-and-mbts/type99a_mbt.png"
+    },
+    {
+      "id": "bmp_3",
+      "name": "BMP-3 IFV",
+      "category": "armor",
+      "categoryFolder": "01-armor-and-mbts",
+      "bloc": "Eastern / OPFOR",
+      "tags": [
+        "ifv",
+        "bmp",
+        "bmp3",
+        "amphibious",
+        "mechanized",
+        "opfor",
+        "100mm",
+        "30mm"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "01-armor-and-mbts/bmp_3.svg",
+      "pngFile": "01-armor-and-mbts/bmp_3.png"
+    },
+    {
+      "id": "cv9035_ifv",
+      "name": "CV9035 Mk IV IFV",
+      "category": "armor",
+      "categoryFolder": "01-armor-and-mbts",
+      "bloc": "NATO / Sweden",
+      "tags": [
+        "ifv",
+        "afv",
+        "cv90",
+        "cv9035",
+        "bushmaster",
+        "sweden",
+        "armor",
+        "mechanized"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "01-armor-and-mbts/cv9035_ifv.svg",
+      "pngFile": "01-armor-and-mbts/cv9035_ifv.png"
+    },
+    {
+      "id": "m113_apc",
+      "name": "M113A3 APC",
+      "category": "armor",
+      "categoryFolder": "01-armor-and-mbts",
+      "bloc": "NATO / US",
+      "tags": [
+        "apc",
+        "m113",
+        "gavin",
+        "tracked",
+        "personnel_carrier",
+        "vietnam",
+        "nato"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "01-armor-and-mbts/m113_apc.svg",
+      "pngFile": "01-armor-and-mbts/m113_apc.png"
+    },
+    {
+      "id": "boxer_8x8",
+      "name": "Boxer 8×8 MRAV",
+      "category": "armor",
+      "categoryFolder": "01-armor-and-mbts",
+      "bloc": "NATO / Germany / UK",
+      "tags": [
+        "apc",
+        "wheeled",
+        "boxer",
+        "8x8",
+        "mrav",
+        "modular",
+        "bundeswehr",
+        "british_army"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "01-armor-and-mbts/boxer_8x8.svg",
+      "pngFile": "01-armor-and-mbts/boxer_8x8.png"
+    },
+    {
+      "id": "msta_s_sph",
+      "name": "2S19 Msta-S 152mm SPH",
+      "category": "armor",
+      "categoryFolder": "01-armor-and-mbts",
+      "bloc": "Eastern / OPFOR",
+      "tags": [
+        "artillery",
+        "howitzer",
+        "sph",
+        "152mm",
+        "msta",
+        "2s19",
+        "russia",
+        "fire_support"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "01-armor-and-mbts/msta_s_sph.svg",
+      "pngFile": "01-armor-and-mbts/msta_s_sph.png"
+    },
+    {
+      "id": "tunguska_2k22",
+      "name": "2K22 Tunguska SPAAG",
+      "category": "tactical",
+      "categoryFolder": "02-tactical-and-air-defense",
+      "bloc": "Eastern / OPFOR",
+      "tags": [
+        "air_defense",
+        "spaag",
+        "tunguska",
+        "2k22",
+        "30mm",
+        "sam",
+        "radar",
+        "shorad"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "02-tactical-and-air-defense/tunguska_2k22.svg",
+      "pngFile": "02-tactical-and-air-defense/tunguska_2k22.png"
+    },
+    {
+      "id": "patriot_pac3",
+      "name": "MIM-104 Patriot PAC-3 Launcher",
+      "category": "tactical",
+      "categoryFolder": "02-tactical-and-air-defense",
+      "bloc": "NATO / US",
+      "tags": [
+        "air_defense",
+        "sam",
+        "patriot",
+        "pac3",
+        "launcher",
+        "ballistic_defense",
+        "us_army"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "02-tactical-and-air-defense/patriot_pac3.svg",
+      "pngFile": "02-tactical-and-air-defense/patriot_pac3.png"
+    },
+    {
+      "id": "s400_triumf",
+      "name": "S-400 Triumf 5P85TE2 TEL",
+      "category": "tactical",
+      "categoryFolder": "02-tactical-and-air-defense",
+      "bloc": "Eastern / OPFOR",
+      "tags": [
+        "air_defense",
+        "sam",
+        "s400",
+        "triumf",
+        "tel",
+        "missile",
+        "russia",
+        "long_range"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "02-tactical-and-air-defense/s400_triumf.svg",
+      "pngFile": "02-tactical-and-air-defense/s400_triumf.png"
+    },
+    {
+      "id": "iris_t_slm",
+      "name": "IRIS-T SLM Launcher",
+      "category": "tactical",
+      "categoryFolder": "02-tactical-and-air-defense",
+      "bloc": "NATO / Germany",
+      "tags": [
+        "air_defense",
+        "sam",
+        "irist",
+        "slm",
+        "launcher",
+        "germany",
+        "shorad"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "02-tactical-and-air-defense/iris_t_slm.svg",
+      "pngFile": "02-tactical-and-air-defense/iris_t_slm.png"
+    },
+    {
+      "id": "nasams_launcher",
+      "name": "NASAMS Air Defense Launcher",
+      "category": "tactical",
+      "categoryFolder": "02-tactical-and-air-defense",
+      "bloc": "NATO / Norway / US",
+      "tags": [
+        "air_defense",
+        "sam",
+        "nasams",
+        "amraam",
+        "launcher",
+        "norway",
+        "medium_range"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "02-tactical-and-air-defense/nasams_launcher.svg",
+      "pngFile": "02-tactical-and-air-defense/nasams_launcher.png"
+    },
+    {
+      "id": "ural_4320",
+      "name": "Ural-4320 6×6 Truck",
+      "category": "tactical",
+      "categoryFolder": "02-tactical-and-air-defense",
+      "bloc": "Eastern / OPFOR",
+      "tags": [
+        "logistics",
+        "truck",
+        "ural",
+        "ural4320",
+        "6x6",
+        "transport",
+        "russia",
+        "supply"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "02-tactical-and-air-defense/ural_4320.svg",
+      "pngFile": "02-tactical-and-air-defense/ural_4320.png"
+    },
+    {
+      "id": "supacat_jackal",
+      "name": "Supacat Jackal HMT Patrol",
+      "category": "tactical",
+      "categoryFolder": "02-tactical-and-air-defense",
+      "bloc": "NATO / UK",
+      "tags": [
+        "patrol",
+        "recon",
+        "jackal",
+        "supacat",
+        "hmt",
+        "british_army",
+        "open_top"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "02-tactical-and-air-defense/supacat_jackal.svg",
+      "pngFile": "02-tactical-and-air-defense/supacat_jackal.png"
+    },
+    {
+      "id": "su57_felon",
+      "name": "Su-57 Felon 5th-Gen Stealth",
+      "category": "aviation",
+      "categoryFolder": "03-aviation-and-bombers",
+      "bloc": "Eastern / Russia",
+      "tags": [
+        "fighter",
+        "jet",
+        "su57",
+        "felon",
+        "stealth",
+        "5th_gen",
+        "russia",
+        "air_superiority"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "03-aviation-and-bombers/su57_felon.svg",
+      "pngFile": "03-aviation-and-bombers/su57_felon.png"
+    },
+    {
+      "id": "j20_mighty_dragon",
+      "name": "Chengdu J-20 Mighty Dragon",
+      "category": "aviation",
+      "categoryFolder": "03-aviation-and-bombers",
+      "bloc": "Eastern / PLA",
+      "tags": [
+        "fighter",
+        "jet",
+        "j20",
+        "stealth",
+        "5th_gen",
+        "pla",
+        "canard",
+        "china"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "03-aviation-and-bombers/j20_mighty_dragon.svg",
+      "pngFile": "03-aviation-and-bombers/j20_mighty_dragon.png"
+    },
+    {
+      "id": "su25_frogfoot",
+      "name": "Su-25 Frogfoot Close Air Support",
+      "category": "aviation",
+      "categoryFolder": "03-aviation-and-bombers",
+      "bloc": "Eastern / OPFOR",
+      "tags": [
+        "cas",
+        "ground_attack",
+        "su25",
+        "frogfoot",
+        "rook",
+        "russia",
+        "armor_buster"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "03-aviation-and-bombers/su25_frogfoot.svg",
+      "pngFile": "03-aviation-and-bombers/su25_frogfoot.png"
+    },
+    {
+      "id": "mig29_fulcrum",
+      "name": "MiG-29 Fulcrum Multirole",
+      "category": "aviation",
+      "categoryFolder": "03-aviation-and-bombers",
+      "bloc": "Eastern / OPFOR",
+      "tags": [
+        "fighter",
+        "jet",
+        "mig29",
+        "fulcrum",
+        "multirole",
+        "russia",
+        "twin_engine"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "03-aviation-and-bombers/mig29_fulcrum.svg",
+      "pngFile": "03-aviation-and-bombers/mig29_fulcrum.png"
+    },
+    {
+      "id": "dassault_rafale",
+      "name": "Dassault Rafale Omnirole",
+      "category": "aviation",
+      "categoryFolder": "03-aviation-and-bombers",
+      "bloc": "NATO / France",
+      "tags": [
+        "fighter",
+        "jet",
+        "rafale",
+        "omnirole",
+        "canard",
+        "delta_wing",
+        "france"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "03-aviation-and-bombers/dassault_rafale.svg",
+      "pngFile": "03-aviation-and-bombers/dassault_rafale.png"
+    },
+    {
+      "id": "jas39_gripen",
+      "name": "JAS 39 Gripen Light Multirole",
+      "category": "aviation",
+      "categoryFolder": "03-aviation-and-bombers",
+      "bloc": "NATO / Sweden",
+      "tags": [
+        "fighter",
+        "jet",
+        "gripen",
+        "jas39",
+        "sweden",
+        "canard",
+        "delta_wing",
+        "light"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "03-aviation-and-bombers/jas39_gripen.svg",
+      "pngFile": "03-aviation-and-bombers/jas39_gripen.png"
+    },
+    {
+      "id": "tu95_bear",
+      "name": "Tu-95MS Bear Turboprop Bomber",
+      "category": "aviation",
+      "categoryFolder": "03-aviation-and-bombers",
+      "bloc": "Eastern / Russia",
+      "tags": [
+        "bomber",
+        "strategic",
+        "tu95",
+        "bear",
+        "turboprop",
+        "cruise_missile",
+        "russia"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "03-aviation-and-bombers/tu95_bear.svg",
+      "pngFile": "03-aviation-and-bombers/tu95_bear.png"
+    },
+    {
+      "id": "tu160_blackjack",
+      "name": "Tu-160 Blackjack Supersonic Bomber",
+      "category": "aviation",
+      "categoryFolder": "03-aviation-and-bombers",
+      "bloc": "Eastern / Russia",
+      "tags": [
+        "bomber",
+        "strategic",
+        "tu160",
+        "blackjack",
+        "supersonic",
+        "variable_sweep",
+        "russia"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "03-aviation-and-bombers/tu160_blackjack.svg",
+      "pngFile": "03-aviation-and-bombers/tu160_blackjack.png"
+    },
+    {
+      "id": "c17_globemaster",
+      "name": "C-17 Globemaster III Strategic Airlifter",
+      "category": "aviation",
+      "categoryFolder": "03-aviation-and-bombers",
+      "bloc": "NATO / US",
+      "tags": [
+        "transport",
+        "airlifter",
+        "c17",
+        "globemaster",
+        "strategic",
+        "usaf",
+        "heavy_cargo"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "03-aviation-and-bombers/c17_globemaster.svg",
+      "pngFile": "03-aviation-and-bombers/c17_globemaster.png"
+    },
+    {
+      "id": "il76_candid",
+      "name": "Il-76 Candid Heavy Transport",
+      "category": "aviation",
+      "categoryFolder": "03-aviation-and-bombers",
+      "bloc": "Eastern / Russia",
+      "tags": [
+        "transport",
+        "airlifter",
+        "il76",
+        "candid",
+        "airborne",
+        "vdv",
+        "russia",
+        "cargo"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "03-aviation-and-bombers/il76_candid.svg",
+      "pngFile": "03-aviation-and-bombers/il76_candid.png"
+    },
+    {
+      "id": "ka52_alligator",
+      "name": "Ka-52 Alligator Coaxial Attack Heli",
+      "category": "helicopters",
+      "categoryFolder": "04-helicopters",
+      "bloc": "Eastern / Russia",
+      "tags": [
+        "helicopter",
+        "attack",
+        "ka52",
+        "alligator",
+        "coaxial",
+        "gunship",
+        "russia"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "04-helicopters/ka52_alligator.svg",
+      "pngFile": "04-helicopters/ka52_alligator.png"
+    },
+    {
+      "id": "mi28_havoc",
+      "name": "Mi-28NM Havoc Attack Helicopter",
+      "category": "helicopters",
+      "categoryFolder": "04-helicopters",
+      "bloc": "Eastern / Russia",
+      "tags": [
+        "helicopter",
+        "attack",
+        "mi28",
+        "havoc",
+        "night_hunter",
+        "gunship",
+        "russia"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "04-helicopters/mi28_havoc.svg",
+      "pngFile": "04-helicopters/mi28_havoc.png"
+    },
+    {
+      "id": "eurocopter_tiger",
+      "name": "Eurocopter Tiger Attack Helicopter",
+      "category": "helicopters",
+      "categoryFolder": "04-helicopters",
+      "bloc": "NATO / Europe",
+      "tags": [
+        "helicopter",
+        "attack",
+        "tiger",
+        "eurocopter",
+        "gunship",
+        "france",
+        "germany"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "04-helicopters/eurocopter_tiger.svg",
+      "pngFile": "04-helicopters/eurocopter_tiger.png"
+    },
+    {
+      "id": "mi8_hip",
+      "name": "Mi-8 / Mi-17 Hip Transport / Assault",
+      "category": "helicopters",
+      "categoryFolder": "04-helicopters",
+      "bloc": "Eastern / Universal",
+      "tags": [
+        "helicopter",
+        "transport",
+        "mi8",
+        "mi17",
+        "hip",
+        "assault",
+        "utility",
+        "universal"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "04-helicopters/mi8_hip.svg",
+      "pngFile": "04-helicopters/mi8_hip.png"
+    },
+    {
+      "id": "ah1z_viper",
+      "name": "AH-1Z Viper Attack Helicopter",
+      "category": "helicopters",
+      "categoryFolder": "04-helicopters",
+      "bloc": "NATO / USMC",
+      "tags": [
+        "helicopter",
+        "attack",
+        "ah1",
+        "ah1z",
+        "viper",
+        "cobra",
+        "usmc",
+        "gunship"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "04-helicopters/ah1z_viper.svg",
+      "pngFile": "04-helicopters/ah1z_viper.png"
+    },
+    {
+      "id": "rq4_global_hawk",
+      "name": "RQ-4 Global Hawk HALE Drone",
+      "category": "drones_missiles",
+      "categoryFolder": "05-drones-and-missiles",
+      "bloc": "NATO / US",
+      "tags": [
+        "drone",
+        "uav",
+        "rq4",
+        "global_hawk",
+        "hale",
+        "surveillance",
+        "recon",
+        "usaf"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "05-drones-and-missiles/rq4_global_hawk.svg",
+      "pngFile": "05-drones-and-missiles/rq4_global_hawk.png"
+    },
+    {
+      "id": "switchblade_600",
+      "name": "Switchblade 600 Loitering Munition",
+      "category": "drones_missiles",
+      "categoryFolder": "05-drones-and-missiles",
+      "bloc": "NATO / US",
+      "tags": [
+        "drone",
+        "loitering_munition",
+        "switchblade",
+        "kamikaze",
+        "anti_armor",
+        "us_army"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "05-drones-and-missiles/switchblade_600.svg",
+      "pngFile": "05-drones-and-missiles/switchblade_600.png"
+    },
+    {
+      "id": "lancet_3",
+      "name": "ZALA Lancet-3 Loitering Munition",
+      "category": "drones_missiles",
+      "categoryFolder": "05-drones-and-missiles",
+      "bloc": "Eastern / Russia",
+      "tags": [
+        "drone",
+        "loitering_munition",
+        "lancet",
+        "kamikaze",
+        "x_wing",
+        "russia",
+        "strike"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "05-drones-and-missiles/lancet_3.svg",
+      "pngFile": "05-drones-and-missiles/lancet_3.png"
+    },
+    {
+      "id": "recon_quadcopter",
+      "name": "Reconnaissance Tactical Quadcopter",
+      "category": "drones_missiles",
+      "categoryFolder": "05-drones-and-missiles",
+      "bloc": "Universal / Modern",
+      "tags": [
+        "drone",
+        "uav",
+        "quadcopter",
+        "recon",
+        "mavic",
+        "commercial_drone",
+        "spotter"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "05-drones-and-missiles/recon_quadcopter.svg",
+      "pngFile": "05-drones-and-missiles/recon_quadcopter.png"
+    },
+    {
+      "id": "storm_shadow",
+      "name": "Storm Shadow / SCALP-EG Cruise Missile",
+      "category": "drones_missiles",
+      "categoryFolder": "05-drones-and-missiles",
+      "bloc": "NATO / UK / France",
+      "tags": [
+        "missile",
+        "cruise_missile",
+        "storm_shadow",
+        "scalp",
+        "stealth",
+        "bunker_buster"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "05-drones-and-missiles/storm_shadow.svg",
+      "pngFile": "05-drones-and-missiles/storm_shadow.png"
+    },
+    {
+      "id": "kalibr_missile",
+      "name": "3M-54 Kalibr Cruise Missile",
+      "category": "drones_missiles",
+      "categoryFolder": "05-drones-and-missiles",
+      "bloc": "Eastern / Russia",
+      "tags": [
+        "missile",
+        "cruise_missile",
+        "kalibr",
+        "land_attack",
+        "anti_ship",
+        "russia"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "05-drones-and-missiles/kalibr_missile.svg",
+      "pngFile": "05-drones-and-missiles/kalibr_missile.png"
+    },
+    {
+      "id": "iskander_m",
+      "name": "9K720 Iskander-M Ballistic Missile",
+      "category": "drones_missiles",
+      "categoryFolder": "05-drones-and-missiles",
+      "bloc": "Eastern / Russia",
+      "tags": [
+        "missile",
+        "ballistic",
+        "iskander",
+        "9k720",
+        "hypersonic",
+        "srbm",
+        "russia"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "05-drones-and-missiles/iskander_m.svg",
+      "pngFile": "05-drones-and-missiles/iskander_m.png"
+    },
+    {
+      "id": "agm88_harm",
+      "name": "AGM-88 HARM Anti-Radiation Missile",
+      "category": "drones_missiles",
+      "categoryFolder": "05-drones-and-missiles",
+      "bloc": "NATO / US",
+      "tags": [
+        "missile",
+        "harm",
+        "agm88",
+        "anti_radiation",
+        "sead",
+        "radar_killer",
+        "usaf"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "05-drones-and-missiles/agm88_harm.svg",
+      "pngFile": "05-drones-and-missiles/agm88_harm.png"
+    },
+    {
+      "id": "queen_elizabeth_carrier",
+      "name": "Queen Elizabeth Class Aircraft Carrier",
+      "category": "naval",
+      "categoryFolder": "06-naval-warships-and-subs",
+      "bloc": "NATO / UK",
+      "tags": [
+        "warship",
+        "carrier",
+        "aircraft_carrier",
+        "queen_elizabeth",
+        "royal_navy",
+        "f35b"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "06-naval-warships-and-subs/queen_elizabeth_carrier.svg",
+      "pngFile": "06-naval-warships-and-subs/queen_elizabeth_carrier.png"
+    },
+    {
+      "id": "type055_destroyer",
+      "name": "Type 055 Guided Missile Destroyer",
+      "category": "naval",
+      "categoryFolder": "06-naval-warships-and-subs",
+      "bloc": "Eastern / PLA",
+      "tags": [
+        "warship",
+        "destroyer",
+        "cruiser",
+        "type055",
+        "plan",
+        "china",
+        "vls",
+        "stealth"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "06-naval-warships-and-subs/type055_destroyer.svg",
+      "pngFile": "06-naval-warships-and-subs/type055_destroyer.png"
+    },
+    {
+      "id": "type45_destroyer",
+      "name": "Type 45 Daring Class Air-Defense DDG",
+      "category": "naval",
+      "categoryFolder": "06-naval-warships-and-subs",
+      "bloc": "NATO / UK",
+      "tags": [
+        "warship",
+        "destroyer",
+        "type45",
+        "daring",
+        "royal_navy",
+        "sampson_radar",
+        "air_defense"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "06-naval-warships-and-subs/type45_destroyer.svg",
+      "pngFile": "06-naval-warships-and-subs/type45_destroyer.png"
+    },
+    {
+      "id": "admiral_gorshkov_frigate",
+      "name": "Admiral Gorshkov Guided Missile Frigate",
+      "category": "naval",
+      "categoryFolder": "06-naval-warships-and-subs",
+      "bloc": "Eastern / Russia",
+      "tags": [
+        "warship",
+        "frigate",
+        "gorshkov",
+        "project22350",
+        "russia",
+        "zircon",
+        "kalibr"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "06-naval-warships-and-subs/admiral_gorshkov_frigate.svg",
+      "pngFile": "06-naval-warships-and-subs/admiral_gorshkov_frigate.png"
+    },
+    {
+      "id": "fremm_frigate",
+      "name": "FREMM Multipurpose Frigate",
+      "category": "naval",
+      "categoryFolder": "06-naval-warships-and-subs",
+      "bloc": "NATO / France / Italy",
+      "tags": [
+        "warship",
+        "frigate",
+        "fremm",
+        "france",
+        "italy",
+        "asw",
+        "constellation"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "06-naval-warships-and-subs/fremm_frigate.svg",
+      "pngFile": "06-naval-warships-and-subs/fremm_frigate.png"
+    },
+    {
+      "id": "fast_patrol_boat",
+      "name": "Mark VI / CB90 Fast Assault Patrol Boat",
+      "category": "naval",
+      "categoryFolder": "06-naval-warships-and-subs",
+      "bloc": "NATO / US / Sweden",
+      "tags": [
+        "warship",
+        "boat",
+        "patrol",
+        "mark_vi",
+        "cb90",
+        "fast_attack",
+        "littoral"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "06-naval-warships-and-subs/fast_patrol_boat.svg",
+      "pngFile": "06-naval-warships-and-subs/fast_patrol_boat.png"
+    },
+    {
+      "id": "ssbn_ballistic_sub",
+      "name": "Ohio Class Ballistic Missile Submarine",
+      "category": "naval",
+      "categoryFolder": "06-naval-warships-and-subs",
+      "bloc": "NATO / US",
+      "tags": [
+        "submarine",
+        "ssbn",
+        "nuclear",
+        "ohio",
+        "trident",
+        "ballistic_missile",
+        "usn"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "06-naval-warships-and-subs/ssbn_ballistic_sub.svg",
+      "pngFile": "06-naval-warships-and-subs/ssbn_ballistic_sub.png"
+    },
+    {
+      "id": "akula_class_sub",
+      "name": "Project 971 Akula Nuclear Attack Submarine",
+      "category": "naval",
+      "categoryFolder": "06-naval-warships-and-subs",
+      "bloc": "Eastern / Russia",
+      "tags": [
+        "submarine",
+        "ssn",
+        "nuclear",
+        "akula",
+        "project971",
+        "russia",
+        "hunter_killer"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "06-naval-warships-and-subs/akula_class_sub.svg",
+      "pngFile": "06-naval-warships-and-subs/akula_class_sub.png"
+    },
+    {
+      "id": "lhd_amphibious_assault",
+      "name": "Wasp / America Class Amphibious Assault Ship",
+      "category": "naval",
+      "categoryFolder": "06-naval-warships-and-subs",
+      "bloc": "NATO / USMC",
+      "tags": [
+        "warship",
+        "amphibious",
+        "lhd",
+        "lha",
+        "wasp",
+        "america",
+        "usmc",
+        "flight_deck"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "06-naval-warships-and-subs/lhd_amphibious_assault.svg",
+      "pngFile": "06-naval-warships-and-subs/lhd_amphibious_assault.png"
+    },
+    {
+      "id": "soldier_prone_sniper",
+      "name": "Sniper & Spotter Team (Prone)",
+      "category": "infantry_weapons",
+      "categoryFolder": "07-infantry-and-weapons",
+      "bloc": "Universal / Marksman",
+      "tags": [
+        "infantry",
+        "soldier",
+        "sniper",
+        "prone",
+        "spotter",
+        "marksman",
+        "ghillie"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "07-infantry-and-weapons/soldier_prone_sniper.svg",
+      "pngFile": "07-infantry-and-weapons/soldier_prone_sniper.png"
+    },
+    {
+      "id": "soldier_advancing",
+      "name": "Soldier Advancing / Assault Stance",
+      "category": "infantry_weapons",
+      "categoryFolder": "07-infantry-and-weapons",
+      "bloc": "Universal / Combat",
+      "tags": [
+        "infantry",
+        "soldier",
+        "advancing",
+        "assault",
+        "patrol",
+        "combat",
+        "running"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "07-infantry-and-weapons/soldier_advancing.svg",
+      "pngFile": "07-infantry-and-weapons/soldier_advancing.png"
+    },
+    {
+      "id": "soldier_shoulder_atgm",
+      "name": "Soldier with Shoulder ATGM / MANPADS",
+      "category": "infantry_weapons",
+      "categoryFolder": "07-infantry-and-weapons",
+      "bloc": "Universal / Anti-Armor",
+      "tags": [
+        "infantry",
+        "soldier",
+        "atgm",
+        "manpads",
+        "javelin",
+        "stinger",
+        "missile",
+        "shoulder_fired"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "07-infantry-and-weapons/soldier_shoulder_atgm.svg",
+      "pngFile": "07-infantry-and-weapons/soldier_shoulder_atgm.png"
+    },
+    {
+      "id": "scar_h_rifle",
+      "name": "FN SCAR-H Battle Rifle 7.62mm",
+      "category": "infantry_weapons",
+      "categoryFolder": "07-infantry-and-weapons",
+      "bloc": "NATO / Universal",
+      "tags": [
+        "weapon",
+        "rifle",
+        "scar",
+        "scar_h",
+        "762mm",
+        "battle_rifle",
+        "special_forces"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "07-infantry-and-weapons/scar_h_rifle.svg",
+      "pngFile": "07-infantry-and-weapons/scar_h_rifle.png"
+    },
+    {
+      "id": "svd_dragunov_sniper",
+      "name": "SVD Dragunov Sniper Rifle 7.62mm",
+      "category": "infantry_weapons",
+      "categoryFolder": "07-infantry-and-weapons",
+      "bloc": "Eastern / OPFOR",
+      "tags": [
+        "weapon",
+        "rifle",
+        "sniper",
+        "svd",
+        "dragunov",
+        "dmr",
+        "762mm",
+        "marksman"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "07-infantry-and-weapons/svd_dragunov_sniper.svg",
+      "pngFile": "07-infantry-and-weapons/svd_dragunov_sniper.png"
+    },
+    {
+      "id": "m240b_machine_gun",
+      "name": "M240B / FN MAG General Purpose Machine Gun",
+      "category": "infantry_weapons",
+      "categoryFolder": "07-infantry-and-weapons",
+      "bloc": "NATO / US",
+      "tags": [
+        "weapon",
+        "machine_gun",
+        "gpmg",
+        "m240",
+        "fn_mag",
+        "762mm",
+        "belt_fed",
+        "suppressive"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "07-infantry-and-weapons/m240b_machine_gun.svg",
+      "pngFile": "07-infantry-and-weapons/m240b_machine_gun.png"
+    },
+    {
+      "id": "pkm_machine_gun",
+      "name": "PKM / PKP Pecheneg 7.62mm Machine Gun",
+      "category": "infantry_weapons",
+      "categoryFolder": "07-infantry-and-weapons",
+      "bloc": "Eastern / OPFOR",
+      "tags": [
+        "weapon",
+        "machine_gun",
+        "gpmg",
+        "pkm",
+        "pkp",
+        "pecheneg",
+        "762mm",
+        "russia"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "07-infantry-and-weapons/pkm_machine_gun.svg",
+      "pngFile": "07-infantry-and-weapons/pkm_machine_gun.png"
+    },
+    {
+      "id": "m2_browning_50",
+      "name": "M2 Browning .50 BMG Heavy MG on Tripod",
+      "category": "infantry_weapons",
+      "categoryFolder": "07-infantry-and-weapons",
+      "bloc": "NATO / US",
+      "tags": [
+        "weapon",
+        "machine_gun",
+        "hmg",
+        "m2",
+        "browning",
+        "50cal",
+        "tripod",
+        "heavy_weapons"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "07-infantry-and-weapons/m2_browning_50.svg",
+      "pngFile": "07-infantry-and-weapons/m2_browning_50.png"
+    },
+    {
+      "id": "dshk_heavy_mg",
+      "name": "DShK / KORD 12.7mm Heavy MG on Tripod",
+      "category": "infantry_weapons",
+      "categoryFolder": "07-infantry-and-weapons",
+      "bloc": "Eastern / OPFOR",
+      "tags": [
+        "weapon",
+        "machine_gun",
+        "hmg",
+        "dshk",
+        "kord",
+        "127mm",
+        "tripod",
+        "heavy_weapons"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "07-infantry-and-weapons/dshk_heavy_mg.svg",
+      "pngFile": "07-infantry-and-weapons/dshk_heavy_mg.png"
+    },
+    {
+      "id": "javelin_atgm",
+      "name": "FGM-148 Javelin Anti-Tank Guided Missile",
+      "category": "infantry_weapons",
+      "categoryFolder": "07-infantry-and-weapons",
+      "bloc": "NATO / US",
+      "tags": [
+        "weapon",
+        "atgm",
+        "anti_tank",
+        "javelin",
+        "clue",
+        "fire_and_forget",
+        "top_attack"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "07-infantry-and-weapons/javelin_atgm.svg",
+      "pngFile": "07-infantry-and-weapons/javelin_atgm.png"
+    },
+    {
+      "id": "stinger_manpads",
+      "name": "FIM-92 Stinger MANPADS SAM",
+      "category": "infantry_weapons",
+      "categoryFolder": "07-infantry-and-weapons",
+      "bloc": "NATO / US",
+      "tags": [
+        "weapon",
+        "manpads",
+        "sam",
+        "stinger",
+        "fim92",
+        "anti_air",
+        "surface_to_air"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "07-infantry-and-weapons/stinger_manpads.svg",
+      "pngFile": "07-infantry-and-weapons/stinger_manpads.png"
+    },
+    {
+      "id": "sandbag_bunker",
+      "name": "Sandbag Field Fortification / MG Post",
+      "category": "fortifications",
+      "categoryFolder": "08-fortifications-and-ops",
+      "bloc": "Universal / Fortification",
+      "tags": [
+        "fortification",
+        "sandbags",
+        "bunker",
+        "entrenchment",
+        "defense",
+        "fieldworks"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "08-fortifications-and-ops/sandbag_bunker.svg",
+      "pngFile": "08-fortifications-and-ops/sandbag_bunker.png"
+    },
+    {
+      "id": "concertina_razor_wire",
+      "name": "Triple Concertina Razor Wire Barrier",
+      "category": "fortifications",
+      "categoryFolder": "08-fortifications-and-ops",
+      "bloc": "Universal / Obstacle",
+      "tags": [
+        "obstacle",
+        "barbed_wire",
+        "razor_wire",
+        "concertina",
+        "perimeter",
+        "entanglement"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "08-fortifications-and-ops/concertina_razor_wire.svg",
+      "pngFile": "08-fortifications-and-ops/concertina_razor_wire.png"
+    },
+    {
+      "id": "trench_zigzag_system",
+      "name": "Tactical Zig-Zag Defensive Trench System",
+      "category": "fortifications",
+      "categoryFolder": "08-fortifications-and-ops",
+      "bloc": "Universal / Fieldworks",
+      "tags": [
+        "trench",
+        "zigzag",
+        "fortification",
+        "defensive_line",
+        "earthworks",
+        "infantry_cover"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "08-fortifications-and-ops/trench_zigzag_system.svg",
+      "pngFile": "08-fortifications-and-ops/trench_zigzag_system.png"
+    },
+    {
+      "id": "claymore_ap_mine",
+      "name": "M18A1 Claymore Anti-Personnel Mine",
+      "category": "fortifications",
+      "categoryFolder": "08-fortifications-and-ops",
+      "bloc": "Universal / Ordnance",
+      "tags": [
+        "mine",
+        "claymore",
+        "m18a1",
+        "anti_personnel",
+        "directional",
+        "ambush",
+        "ordnance"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "08-fortifications-and-ops/claymore_ap_mine.svg",
+      "pngFile": "08-fortifications-and-ops/claymore_ap_mine.png"
+    },
+    {
+      "id": "tactical_watchtower",
+      "name": "Military Guard Tower / Observation Post",
+      "category": "fortifications",
+      "categoryFolder": "08-fortifications-and-ops",
+      "bloc": "Universal / Facility",
+      "tags": [
+        "tower",
+        "watchtower",
+        "observation",
+        "perimeter",
+        "guard",
+        "sentry",
+        "security"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "08-fortifications-and-ops/tactical_watchtower.svg",
+      "pngFile": "08-fortifications-and-ops/tactical_watchtower.png"
+    },
+    {
+      "id": "tactical_radio_mast",
+      "name": "Field Radio Relay Mast & Antenna",
+      "category": "fortifications",
+      "categoryFolder": "08-fortifications-and-ops",
+      "bloc": "Universal / C4ISR",
+      "tags": [
+        "communications",
+        "radio",
+        "antenna",
+        "mast",
+        "relay",
+        "c4isr",
+        "signal_corps"
+      ],
+      "viewBox": "0 0 512 256",
+      "svgFile": "08-fortifications-and-ops/tactical_radio_mast.svg",
+      "pngFile": "08-fortifications-and-ops/tactical_radio_mast.png"
+    }
+  ]
+}

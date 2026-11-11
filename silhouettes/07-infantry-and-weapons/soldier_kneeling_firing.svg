@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>Soldier Kneeling (Firing)</title>
+  <desc>Universal / Infantry — soldier, infantry, kneeling, firing, marksman, suppression</desc>
+  <path d="M 152 74 C 152 60 166 48 182 48 C 198 48 212 60 212 74 L 204 88 L 188 92 L 164 90 Z M 166 92 L 208 92 L 228 112 L 384 112 L 388 106 L 396 106 L 396 116 L 384 116 L 284 118 L 268 118 L 258 144 L 248 142 L 256 118 L 220 148 L 234 188 L 234 236 L 206 236 L 206 188 L 176 160 L 142 198 L 114 236 L 86 236 L 124 186 L 154 148 L 150 114 Z" fill="#1e293b"/>
+</svg>

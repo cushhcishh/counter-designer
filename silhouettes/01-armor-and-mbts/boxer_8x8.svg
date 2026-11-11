@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>Boxer 8×8 MRAV</title>
+  <desc>NATO / Germany / UK — apc, wheeled, boxer, 8x8, mrav, modular, bundeswehr, british_army</desc>
+  <path d="M 42 168 L 48 108 L 270 108 L 274 88 L 334 88 L 338 108 L 354 116 L 450 134 L 468 152 L 466 168 L 44 168 Z M 292 88 L 314 88 L 314 74 L 380 74 L 380 78 L 320 78 L 320 88 Z M 62 174 A 20 20 0 1 0 102 174 A 20 20 0 1 0 62 174 Z M 158 174 A 20 20 0 1 0 198 174 A 20 20 0 1 0 158 174 Z M 254 174 A 20 20 0 1 0 294 174 A 20 20 0 1 0 254 174 Z M 350 174 A 20 20 0 1 0 390 174 A 20 20 0 1 0 350 174 Z" fill="#1e293b"/>
+</svg>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>Ural-4320 6×6 Truck</title>
+  <desc>Eastern / OPFOR — logistics, truck, ural, ural4320, 6x6, transport, russia, supply</desc>
+  <path d="M 48 172 L 52 98 L 298 98 L 298 126 L 354 126 L 378 136 L 448 136 L 458 154 L 456 172 L 50 172 Z M 52 98 C 170 90 280 90 298 98 Z M 88 176 A 20 20 0 1 0 128 176 A 20 20 0 1 0 88 176 Z M 198 176 A 20 20 0 1 0 238 176 A 20 20 0 1 0 198 176 Z M 368 176 A 20 20 0 1 0 408 176 A 20 20 0 1 0 368 176 Z" fill="#1e293b"/>
+</svg>

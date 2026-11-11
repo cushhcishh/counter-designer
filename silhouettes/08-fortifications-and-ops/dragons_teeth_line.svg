@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>Dragon&apos;s Teeth Anti-Tank Line</title>
+  <desc>Universal / Defense — obstacle, anti_tank, dragons_teeth, barrier, defense, concrete</desc>
+  <path d="M 44 204 L 92 114 L 140 204 Z M 124 204 L 172 114 L 220 204 Z M 204 204 L 252 114 L 300 204 Z M 284 204 L 332 114 L 380 204 Z M 364 204 L 412 114 L 460 204 Z M 36 204 L 476 204 L 476 210 L 36 210 Z M 92 114 L 102 204 M 172 114 L 182 204 M 252 114 L 262 204 M 332 114 L 342 204 M 412 114 L 422 204" fill="#1e293b"/>
+</svg>

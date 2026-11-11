@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>BGM-109 Tomahawk</title>
+  <desc>NATO / US &amp; UK — missile, cruise_missile, tomahawk, precision_strike, us_navy, royal_navy</desc>
+  <path d="M 44 128 L 62 102 L 78 102 L 72 124 L 194 124 L 242 52 L 268 52 L 262 124 L 458 124 C 484 124 492 128 492 128 C 492 128 484 132 458 132 L 262 132 L 268 204 L 242 204 L 194 132 L 72 132 L 78 154 L 62 154 L 44 128 Z M 134 132 L 158 132 L 152 144 L 138 144 Z" fill="#1e293b"/>
+</svg>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>Czech Hedgehog Barrier</title>
+  <desc>Universal / Defense — obstacle, anti_tank, hedgehog, czech, steel, barrier, beach_landing</desc>
+  <path d="M 98 62 L 126 50 L 414 194 L 386 206 Z M 414 62 L 386 50 L 98 194 L 126 206 Z M 242 42 L 270 42 L 270 214 L 242 214 Z M 226 108 L 286 108 L 286 148 L 226 148 Z" fill="#1e293b"/>
+</svg>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>PKM / PKP Pecheneg 7.62mm Machine Gun</title>
+  <desc>Eastern / OPFOR — weapon, machine_gun, gpmg, pkm, pkp, pecheneg, 762mm, russia</desc>
+  <path d="M 40 128 L 48 112 L 128 112 L 138 126 L 168 126 L 174 100 L 208 100 L 208 108 L 184 108 L 184 126 L 452 126 L 458 106 L 468 106 L 470 126 L 498 126 L 498 132 L 470 132 L 430 132 L 442 174 L 432 174 L 422 132 L 254 132 L 250 168 L 212 168 L 218 132 L 172 132 L 158 170 L 140 166 L 150 132 L 128 132 L 128 144 L 48 144 L 40 128 Z" fill="#1e293b"/>
+</svg>

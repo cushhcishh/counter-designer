@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>Oshkosh JLTV</title>
+  <desc>NATO / US — light_tactical, jltv, oshkosh, mrap, 4x4, armored, us_army</desc>
+  <path d="M 58 166 L 66 124 L 204 108 L 212 84 L 246 84 L 246 108 L 334 112 L 416 118 L 438 138 L 434 166 L 60 166 Z M 246 90 L 302 90 L 302 94 L 246 94 Z M 108 170 A 24 24 0 1 0 156 170 A 24 24 0 1 0 108 170 Z M 344 170 A 24 24 0 1 0 392 170 A 24 24 0 1 0 344 170 Z" fill="#1e293b"/>
+</svg>

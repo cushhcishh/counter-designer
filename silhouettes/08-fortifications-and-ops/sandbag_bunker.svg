@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>Sandbag Field Fortification / MG Post</title>
+  <desc>Universal / Fortification — fortification, sandbags, bunker, entrenchment, defense, fieldworks</desc>
+  <path d="M 68 202 L 72 138 L 194 138 L 202 202 Z M 310 202 L 318 138 L 444 138 L 440 202 Z M 194 172 L 318 172 L 318 202 L 194 202 Z M 248 154 L 264 154 L 264 146 L 388 146 L 388 150 L 264 150 L 264 164 L 248 164 Z M 70 160 L 196 160 M 70 180 L 198 180 M 316 160 L 442 160 M 314 180 L 440 180" fill="#1e293b"/>
+</svg>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>Soldier Advancing / Assault Stance</title>
+  <desc>Universal / Combat — infantry, soldier, advancing, assault, patrol, combat, running</desc>
+  <path d="M 184 46 C 184 34 196 24 210 24 C 224 24 234 34 234 46 L 228 58 L 212 64 L 188 62 Z M 188 64 L 226 64 L 248 88 L 372 88 L 376 82 L 384 82 L 384 92 L 372 92 L 278 94 L 254 94 L 242 134 L 276 174 L 284 228 L 258 228 L 248 182 L 218 148 L 188 176 L 148 214 L 132 198 L 172 158 L 176 114 L 168 84 Z" fill="#1e293b"/>
+</svg>

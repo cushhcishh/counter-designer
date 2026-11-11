@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>Su-27 / Su-35 Flanker</title>
+  <desc>Eastern / OPFOR — fighter, jet, su27, su35, flanker, russia, opfor, air_superiority</desc>
+  <path d="M 26 128 L 68 80 L 88 80 L 78 128 L 124 128 L 226 92 L 316 60 L 332 60 L 274 128 L 374 128 L 418 112 L 464 122 L 496 132 L 464 138 L 418 142 L 374 136 L 274 136 L 332 196 L 316 196 L 226 164 L 124 136 L 78 136 L 26 128 Z M 26 128 L 54 128 M 64 84 L 84 84 L 74 124 L 54 124 Z" fill="#1e293b"/>
+</svg>

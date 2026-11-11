@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>C-130 Hercules</title>
+  <desc>NATO / Universal — transport, cargo, c130, hercules, turboprop, tactical_airlift</desc>
+  <path d="M 36 128 L 68 72 L 96 72 L 82 128 L 180 128 L 228 54 L 260 54 L 260 128 L 384 128 L 428 122 L 464 124 L 484 128 L 464 134 L 428 138 L 384 138 L 260 138 L 260 202 L 228 202 L 180 138 L 82 138 L 36 128 Z M 216 74 L 236 74 L 236 84 L 216 84 Z M 240 60 L 256 60 L 256 70 L 240 70 Z M 216 172 L 236 172 L 236 182 L 216 182 Z M 240 186 L 256 186 L 256 196 L 240 196 Z" fill="#1e293b"/>
+</svg>

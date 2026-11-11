@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>Triple Concertina Razor Wire Barrier</title>
+  <desc>Universal / Obstacle — obstacle, barbed_wire, razor_wire, concertina, perimeter, entanglement</desc>
+  <path d="M 104 168 A 38 38 0 1 0 180 168 A 38 38 0 1 0 104 168 Z M 332 168 A 38 38 0 1 0 408 168 A 38 38 0 1 0 332 168 Z M 218 168 A 38 38 0 1 0 294 168 A 38 38 0 1 0 218 168 Z M 164 108 A 36 36 0 1 0 236 108 A 36 36 0 1 0 164 108 Z M 276 108 A 36 36 0 1 0 348 108 A 36 36 0 1 0 276 108 Z M 140 70 L 144 70 L 144 214 L 140 214 Z M 254 70 L 258 70 L 258 214 L 254 214 Z M 368 70 L 372 70 L 372 214 L 368 214 Z" fill="#1e293b"/>
+</svg>

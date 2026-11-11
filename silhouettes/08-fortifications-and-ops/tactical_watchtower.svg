@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>Military Guard Tower / Observation Post</title>
+  <desc>Universal / Facility — tower, watchtower, observation, perimeter, guard, sentry, security</desc>
+  <path d="M 164 214 L 208 86 L 216 86 L 174 214 Z M 348 214 L 304 86 L 296 86 L 338 214 Z M 194 174 L 318 126 M 194 126 L 318 174 M 204 126 L 308 86 M 204 86 L 308 126 M 188 86 L 324 86 L 324 52 L 188 52 Z M 174 52 L 256 24 L 338 52 Z M 204 62 L 308 62 L 308 72 L 204 72 Z" fill="#1e293b"/>
+</svg>

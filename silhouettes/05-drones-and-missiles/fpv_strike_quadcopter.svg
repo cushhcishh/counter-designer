@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>FPV Strike Quadcopter</title>
+  <desc>Universal / Tactical — drone, fpv, quadcopter, kamikaze, tactical, rpg_drone</desc>
+  <path d="M 216 114 L 296 114 L 296 142 L 216 142 Z M 216 118 L 138 72 L 148 68 L 226 114 Z M 296 118 L 374 72 L 364 68 L 286 114 Z M 216 138 L 138 184 L 148 188 L 226 142 Z M 296 138 L 374 184 L 364 188 L 286 142 Z M 126 70 A 16 16 0 1 0 158 70 A 16 16 0 1 0 126 70 Z M 354 70 A 16 16 0 1 0 386 70 A 16 16 0 1 0 354 70 Z M 126 186 A 16 16 0 1 0 158 186 A 16 16 0 1 0 126 186 Z M 354 186 A 16 16 0 1 0 386 186 A 16 16 0 1 0 354 186 Z M 174 128 L 204 116 L 314 116 L 324 124 L 358 128 L 324 132 L 314 140 L 204 140 L 174 128 Z M 224 114 L 210 92 L 214 90 L 228 112 Z" fill="#1e293b"/>
+</svg>

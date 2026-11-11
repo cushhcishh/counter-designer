@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>Early Warning Radar Dish</title>
+  <desc>Universal / C4ISR — radar, c4isr, air_defense, surveillance, early_warning, electronics</desc>
+  <path d="M 160 196 L 352 196 L 352 184 L 160 184 Z M 236 184 L 276 184 L 270 146 L 242 146 Z M 132 142 C 168 84 264 56 372 98 L 364 108 C 262 68 174 94 142 148 Z M 252 110 L 298 58 L 306 62 L 260 114 Z M 296 60 A 6 6 0 1 0 308 60 A 6 6 0 1 0 296 60 Z" fill="#1e293b"/>
+</svg>

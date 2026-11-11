@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>HEMTT 8×8 Truck</title>
+  <desc>NATO / US — logistics, truck, hemtt, 8x8, transport, supply, heavy</desc>
+  <path d="M 44 170 L 50 132 L 358 132 L 362 94 L 452 94 L 464 134 L 462 170 L 46 170 Z M 50 132 L 50 114 L 358 114 L 358 132 Z M 66 176 A 20 20 0 1 0 106 176 A 20 20 0 1 0 66 176 Z M 158 176 A 20 20 0 1 0 198 176 A 20 20 0 1 0 158 176 Z M 250 176 A 20 20 0 1 0 290 176 A 20 20 0 1 0 250 176 Z M 342 176 A 20 20 0 1 0 382 176 A 20 20 0 1 0 342 176 Z" fill="#1e293b"/>
+</svg>

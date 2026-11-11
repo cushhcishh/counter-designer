@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>Tactical Zig-Zag Defensive Trench System</title>
+  <desc>Universal / Fieldworks — trench, zigzag, fortification, defensive_line, earthworks, infantry_cover</desc>
+  <path d="M 44 148 L 108 148 L 142 88 L 206 88 L 240 148 L 304 148 L 338 88 L 402 88 L 436 148 L 468 148 L 468 174 L 424 174 L 390 114 L 352 114 L 318 174 L 226 174 L 192 114 L 154 114 L 120 174 L 44 174 Z M 44 138 L 112 138 L 146 78 L 210 78 L 244 138 L 308 138 L 342 78 L 406 78 L 440 138 L 468 138 L 468 142 L 436 142 L 402 82 L 338 82 L 304 142 L 240 142 L 206 82 L 142 82 L 108 142 L 44 142 Z M 124 164 L 132 152 M 160 126 L 168 114 M 228 164 L 236 152 M 264 126 L 272 114 M 328 164 L 336 152" fill="#1e293b"/>
+</svg>

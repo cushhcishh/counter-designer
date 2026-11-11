@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>Flakpanzer Gepard</title>
+  <desc>NATO / Germany — air_defense, spaag, gepard, 35mm, radar, shorad, germany</desc>
+  <path d="M 36 176 L 48 144 L 140 142 L 186 136 L 224 130 L 220 90 L 236 90 L 244 108 L 310 108 L 324 88 L 340 88 L 338 108 L 356 120 L 486 102 L 488 96 L 498 96 L 500 102 L 506 102 L 506 108 L 498 108 L 486 112 L 358 132 L 426 138 L 468 148 L 484 162 L 482 184 L 470 194 L 42 194 Z M 53 178 A 15 15 0 1 0 83 178 A 15 15 0 1 0 53 178 Z M 111 178 A 15 15 0 1 0 141 178 A 15 15 0 1 0 111 178 Z M 169 178 A 15 15 0 1 0 199 178 A 15 15 0 1 0 169 178 Z M 227 178 A 15 15 0 1 0 257 178 A 15 15 0 1 0 227 178 Z M 285 178 A 15 15 0 1 0 315 178 A 15 15 0 1 0 285 178 Z M 343 178 A 15 15 0 1 0 373 178 A 15 15 0 1 0 343 178 Z M 401 178 A 15 15 0 1 0 431 178 A 15 15 0 1 0 401 178 Z" fill="#1e293b"/>
+</svg>

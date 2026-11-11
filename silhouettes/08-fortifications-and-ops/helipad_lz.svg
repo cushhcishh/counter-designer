@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>Helipad / Tactical LZ</title>
+  <desc>Universal / Aviation — helipad, lz, landing_zone, aviation, evacuation, medevac</desc>
+  <path d="M 168 128 A 88 88 0 1 0 344 128 A 88 88 0 1 0 168 128 Z M 180 128 A 76 76 0 1 0 332 128 A 76 76 0 1 0 180 128 Z M 224 88 L 240 88 L 240 120 L 272 120 L 272 88 L 288 88 L 288 168 L 272 168 L 272 136 L 240 136 L 240 168 L 224 168 Z M 374 96 L 378 96 L 378 160 L 374 160 Z M 378 100 L 418 106 L 418 118 L 378 124 Z" fill="#1e293b"/>
+</svg>

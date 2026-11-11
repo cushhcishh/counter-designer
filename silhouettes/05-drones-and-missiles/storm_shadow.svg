@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>Storm Shadow / SCALP-EG Cruise Missile</title>
+  <desc>NATO / UK / France — missile, cruise_missile, storm_shadow, scalp, stealth, bunker_buster</desc>
+  <path d="M 48 128 L 68 106 L 82 106 L 76 124 L 210 124 L 254 62 L 278 62 L 272 124 L 448 124 L 484 128 L 448 132 L 272 132 L 278 194 L 254 194 L 210 132 L 76 132 L 82 150 L 68 150 L 48 128 Z M 140 124 L 430 124 L 430 132 L 140 132 Z" fill="#1e293b"/>
+</svg>

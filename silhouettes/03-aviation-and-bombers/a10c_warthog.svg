@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>A-10C Thunderbolt II (Warthog)</title>
+  <desc>NATO / US — cas, ground_attack, a10, warthog, gau8, tank_buster, usaf</desc>
+  <path d="M 36 128 L 48 88 L 68 88 L 62 128 L 108 128 L 112 80 L 158 80 L 158 128 L 214 128 L 214 54 L 246 54 L 246 128 L 378 128 L 424 120 L 468 124 L 488 132 L 496 132 L 496 136 L 484 136 L 452 142 L 398 142 L 246 142 L 246 202 L 214 202 L 214 142 L 108 142 L 62 142 L 68 168 L 48 168 L 36 128 Z M 116 88 L 152 88 L 152 120 L 116 120 Z" fill="#1e293b"/>
+</svg>

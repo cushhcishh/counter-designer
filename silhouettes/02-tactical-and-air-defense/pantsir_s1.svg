@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>Pantsir-S1</title>
+  <desc>Eastern / OPFOR — air_defense, sam, spaag, pantsir, missile, radar, 8x8, russia</desc>
+  <path d="M 44 172 L 50 144 L 158 144 L 158 132 L 352 132 L 358 102 L 448 102 L 468 136 L 466 172 L 44 172 Z M 204 132 L 204 78 L 226 78 L 230 52 L 256 52 L 260 78 L 296 78 L 296 132 Z M 270 94 L 382 32 L 386 38 L 274 100 Z M 173 92 A 5 5 0 1 0 183 92 A 5 5 0 1 0 173 92 Z M 185 92 A 5 5 0 1 0 195 92 A 5 5 0 1 0 185 92 Z M 173 104 A 5 5 0 1 0 183 104 A 5 5 0 1 0 173 104 Z M 185 104 A 5 5 0 1 0 195 104 A 5 5 0 1 0 185 104 Z M 67 176 A 19 19 0 1 0 105 176 A 19 19 0 1 0 67 176 Z M 159 176 A 19 19 0 1 0 197 176 A 19 19 0 1 0 159 176 Z M 251 176 A 19 19 0 1 0 289 176 A 19 19 0 1 0 251 176 Z M 343 176 A 19 19 0 1 0 381 176 A 19 19 0 1 0 343 176 Z" fill="#1e293b"/>
+</svg>

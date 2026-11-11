@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>BM-21 Grad</title>
+  <desc>Eastern / OPFOR — artillery, rocket, mlrs, grad, bm21, 122mm, truck, 6x6</desc>
+  <path d="M 42 172 L 48 148 L 204 148 L 204 132 L 298 132 L 304 108 L 358 108 L 382 128 L 452 128 L 462 148 L 460 172 L 44 172 Z M 90 148 L 222 72 L 242 106 L 110 182 Z M 223 76 A 3 3 0 1 0 229 76 A 3 3 0 1 0 223 76 Z M 229 86 A 3 3 0 1 0 235 86 A 3 3 0 1 0 229 86 Z M 235 96 A 3 3 0 1 0 241 96 A 3 3 0 1 0 235 96 Z M 86 176 A 20 20 0 1 0 126 176 A 20 20 0 1 0 86 176 Z M 196 176 A 20 20 0 1 0 236 176 A 20 20 0 1 0 196 176 Z M 368 176 A 20 20 0 1 0 408 176 A 20 20 0 1 0 368 176 Z" fill="#1e293b"/>
+</svg>

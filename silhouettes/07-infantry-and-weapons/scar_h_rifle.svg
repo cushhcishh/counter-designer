@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>FN SCAR-H Battle Rifle 7.62mm</title>
+  <desc>NATO / Universal — weapon, rifle, scar, scar_h, 762mm, battle_rifle, special_forces</desc>
+  <path d="M 46 128 L 54 104 L 124 104 L 132 126 L 138 112 L 384 112 L 392 126 L 476 126 L 478 120 L 492 120 L 494 126 L 498 126 L 498 132 L 476 132 L 256 132 L 252 178 L 228 178 L 234 132 L 186 132 L 172 172 L 152 168 L 164 132 L 132 132 L 124 148 L 54 148 L 46 128 Z" fill="#1e293b"/>
+</svg>

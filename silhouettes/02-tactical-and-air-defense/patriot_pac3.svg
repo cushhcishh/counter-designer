@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>MIM-104 Patriot PAC-3 Launcher</title>
+  <desc>NATO / US — air_defense, sam, patriot, pac3, launcher, ballistic_defense, us_army</desc>
+  <path d="M 50 182 L 50 156 L 70 156 L 70 168 L 390 168 L 390 156 L 410 156 L 410 182 L 370 182 L 370 168 L 90 168 L 90 182 Z M 120 158 L 358 48 L 388 94 L 150 204 Z M 166 136 L 404 26 L 394 12 L 156 122 Z M 114 178 A 16 16 0 1 0 146 178 A 16 16 0 1 0 114 178 Z M 154 178 A 16 16 0 1 0 186 178 A 16 16 0 1 0 154 178 Z M 314 178 A 16 16 0 1 0 346 178 A 16 16 0 1 0 314 178 Z M 354 178 A 16 16 0 1 0 386 178 A 16 16 0 1 0 354 178 Z" fill="#1e293b"/>
+</svg>

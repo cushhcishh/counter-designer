@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>Combat Rifleman (Standing)</title>
+  <desc>Universal / Infantry — soldier, infantry, operator, rifleman, tactical, boots_on_the_ground</desc>
+  <path d="M 164 42 C 164 30 176 20 190 20 C 204 20 216 30 216 42 L 216 52 L 208 58 L 198 58 L 198 64 L 178 64 L 178 54 L 164 52 Z M 172 64 L 212 64 L 224 84 L 236 84 L 248 100 L 374 100 L 378 94 L 386 94 L 386 104 L 374 104 L 278 106 L 264 106 L 254 132 L 244 130 L 252 106 L 234 106 L 228 140 L 236 188 L 248 236 L 222 236 L 210 188 L 192 144 L 174 188 L 160 236 L 134 236 L 152 188 L 162 136 L 162 92 L 150 78 Z" fill="#1e293b"/>
+</svg>

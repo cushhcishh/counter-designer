@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>Switchblade 600 Loitering Munition</title>
+  <desc>NATO / US — drone, loitering_munition, switchblade, kamikaze, anti_armor, us_army</desc>
+  <path d="M 52 116 L 58 116 L 58 140 L 52 140 Z M 60 128 L 138 126 L 168 76 L 186 76 L 164 126 L 314 126 L 344 76 L 362 76 L 340 126 L 452 126 A 14 14 0 0 1 452 154 L 340 130 L 362 180 L 344 180 L 314 130 L 164 130 L 186 180 L 168 180 L 138 130 L 60 128 Z" fill="#1e293b"/>
+</svg>

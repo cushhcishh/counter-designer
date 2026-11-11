@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>Sniper &amp; Spotter Team (Prone)</title>
+  <desc>Universal / Marksman — infantry, soldier, sniper, prone, spotter, marksman, ghillie</desc>
+  <path d="M 64 204 L 98 184 L 164 174 L 242 174 L 278 158 L 320 158 L 334 174 L 468 174 L 472 168 L 484 168 L 484 178 L 468 178 L 404 178 L 416 204 L 406 204 L 396 180 L 388 204 L 378 204 L 390 178 L 254 180 L 182 184 L 114 198 L 64 204 Z M 112 174 C 112 160 124 150 136 150 C 148 150 158 160 158 174 L 188 174 L 194 158 L 222 158 L 222 166 L 202 166 L 196 174 Z" fill="#1e293b"/>
+</svg>

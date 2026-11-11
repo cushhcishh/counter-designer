@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>FGM-148 Javelin Anti-Tank Guided Missile</title>
+  <desc>NATO / US — weapon, atgm, anti_tank, javelin, clue, fire_and_forget, top_attack</desc>
+  <path d="M 74 98 L 102 98 L 102 158 L 74 158 Z M 102 110 L 378 110 L 378 146 L 102 146 Z M 378 98 L 406 98 L 406 158 L 378 158 Z M 214 146 L 296 146 L 296 186 L 278 186 L 278 174 L 232 174 L 232 186 L 214 186 Z M 224 168 L 224 188 L 220 188 L 220 168 Z M 288 168 L 288 188 L 284 188 L 284 168 Z" fill="#1e293b"/>
+</svg>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>IRIS-T SLM Launcher</title>
+  <desc>NATO / Germany — air_defense, sam, irist, slm, launcher, germany, shorad</desc>
+  <path d="M 46 172 L 52 146 L 150 146 L 150 134 L 342 134 L 348 108 L 444 108 L 466 138 L 468 172 L 46 172 Z M 168 146 L 168 46 L 314 46 L 314 146 Z M 186 50 L 186 142 M 204 50 L 204 142 M 222 50 L 222 142 M 240 50 L 240 142 M 258 50 L 258 142 M 276 50 L 276 142 M 294 50 L 294 142 M 70 176 A 18 18 0 1 0 106 176 A 18 18 0 1 0 70 176 Z M 160 176 A 18 18 0 1 0 196 176 A 18 18 0 1 0 160 176 Z M 250 176 A 18 18 0 1 0 286 176 A 18 18 0 1 0 250 176 Z M 340 176 A 18 18 0 1 0 376 176 A 18 18 0 1 0 340 176 Z" fill="#1e293b"/>
+</svg>

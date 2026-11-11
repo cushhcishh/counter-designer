@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>Su-25 Frogfoot Close Air Support</title>
+  <desc>Eastern / OPFOR — cas, ground_attack, su25, frogfoot, rook, russia, armor_buster</desc>
+  <path d="M 38 128 L 62 82 L 80 82 L 72 128 L 126 128 L 204 114 L 264 68 L 278 68 L 278 74 L 242 128 L 368 128 L 412 118 L 456 124 L 484 128 L 456 134 L 412 140 L 368 136 L 242 136 L 278 182 L 278 188 L 264 188 L 204 142 L 126 136 L 72 136 L 38 128 Z M 275 71 A 3 3 0 1 0 281 71 A 3 3 0 1 0 275 71 Z M 275 185 A 3 3 0 1 0 281 185 A 3 3 0 1 0 275 185 Z" fill="#1e293b"/>
+</svg>

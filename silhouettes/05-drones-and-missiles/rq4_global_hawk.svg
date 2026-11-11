@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="1024" height="512">
+  <title>RQ-4 Global Hawk HALE Drone</title>
+  <desc>NATO / US — drone, uav, rq4, global_hawk, hale, surveillance, recon, usaf</desc>
+  <path d="M 44 128 L 68 88 L 86 88 L 78 128 L 174 128 L 182 102 L 236 102 L 236 128 L 252 38 L 278 38 L 270 128 L 394 128 L 442 112 L 484 116 L 496 128 L 484 136 L 442 140 L 394 136 L 270 136 L 278 218 L 252 218 L 174 136 L 78 136 L 44 128 Z M 230 104 L 236 104 L 236 126 L 230 126 Z" fill="#1e293b"/>
+</svg>
